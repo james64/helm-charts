@@ -3,17 +3,17 @@ entries:
   victoria-metrics-agent:
   - apiVersion: v1
     appVersion: v1.58.0
-    created: "2021-04-10T14:23:37.902283369+03:00"
+    created: "2021-04-11T13:20:18.340035524+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
-    digest: c791d58ecb1b76019239c29b483ad4a6e4cea06d64c5b3b2045da0d9bfc9edf0
+    digest: e040e2934e876e254cd954d5067100c346a3be8c37d07d049d2beb56bdeb4cda
     name: victoria-metrics-agent
     urls:
     - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-agent-0.7.15.tgz
     version: 0.7.15
   - apiVersion: v1
     appVersion: v1.58.0
-    created: "2021-04-10T14:23:37.900672106+03:00"
+    created: "2021-04-11T13:20:18.338527286+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 911871531d20ac2cc8797824e199e668653061c6dc807c0605677743c2802d61
@@ -23,7 +23,7 @@ entries:
     version: 0.7.14
   - apiVersion: v1
     appVersion: v1.57.1
-    created: "2021-04-10T14:23:37.898728547+03:00"
+    created: "2021-04-11T13:20:18.336968379+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 558a3a333603a3ae6481c48c89d1ed0852f1836d3b3f1463436e8bea47942017
@@ -33,7 +33,7 @@ entries:
     version: 0.7.13
   - apiVersion: v1
     appVersion: v1.57.1
-    created: "2021-04-10T14:23:37.897001309+03:00"
+    created: "2021-04-11T13:20:18.335427994+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: b287d8de51908dbf44ffc34cc0dc9ce2758e15b6276b3c39e176243af2daaf9a
@@ -43,7 +43,7 @@ entries:
     version: 0.7.12
   - apiVersion: v1
     appVersion: v1.57.0
-    created: "2021-04-10T14:23:37.895473925+03:00"
+    created: "2021-04-11T13:20:18.333212133+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 1f3e9146554a3f613ae33a9fb4082535cc92ecc7b287a7ef5d452a093f46df99
@@ -53,7 +53,7 @@ entries:
     version: 0.7.11
   - apiVersion: v1
     appVersion: v1.56.0
-    created: "2021-04-10T14:23:37.893793559+03:00"
+    created: "2021-04-11T13:20:18.331315098+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 3672c70580c3b525166b540fee717e530e771075360d20e313c10ef60b460b5d
@@ -63,7 +63,7 @@ entries:
     version: 0.7.10
   - apiVersion: v1
     appVersion: v1.55.1
-    created: "2021-04-10T14:23:37.918380648+03:00"
+    created: "2021-04-11T13:20:18.360893647+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 7b130e857293c63d55e12af381470f0a5503be48cf80e1b76cdfe4a141a34754
@@ -73,7 +73,7 @@ entries:
     version: 0.7.9
   - apiVersion: v1
     appVersion: v1.55.1
-    created: "2021-04-10T14:23:37.916210609+03:00"
+    created: "2021-04-11T13:20:18.358344672+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: ecf9d0dbb6d05b5923eab4c3038361ac3a91c4c4e67aa055eb5efb5a76cb4d05
@@ -83,7 +83,7 @@ entries:
     version: 0.7.8
   - apiVersion: v1
     appVersion: v1.55.0
-    created: "2021-04-10T14:23:37.914196146+03:00"
+    created: "2021-04-11T13:20:18.354797319+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 9649481f73be7c99d30d456c095364674ddb277da7ac445128360299e8ad040a
@@ -93,7 +93,7 @@ entries:
     version: 0.7.7
   - apiVersion: v1
     appVersion: v1.54.1
-    created: "2021-04-10T14:23:37.912114399+03:00"
+    created: "2021-04-11T13:20:18.352077914+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 255dec01c96b4b6c4ab0b4034dbcd36f1ac346e983dc7494fd2d9b50c091e2a5
@@ -103,7 +103,7 @@ entries:
     version: 0.7.6
   - apiVersion: v1
     appVersion: v1.54.1
-    created: "2021-04-10T14:23:37.909865233+03:00"
+    created: "2021-04-11T13:20:18.349508002+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 245ae5ae5f3849ae3a194994a3e5109e3a93c332262b9c13351fb391cd7d6294
@@ -113,7 +113,7 @@ entries:
     version: 0.7.5
   - apiVersion: v1
     appVersion: v1.54.0
-    created: "2021-04-10T14:23:37.907185623+03:00"
+    created: "2021-04-11T13:20:18.347036686+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 391427acdc9156b3528493a633c80621aa9123781bc526c0a5359afad62a7da3
@@ -123,7 +123,7 @@ entries:
     version: 0.7.4
   - apiVersion: v1
     appVersion: v1.53.1
-    created: "2021-04-10T14:23:37.905566417+03:00"
+    created: "2021-04-11T13:20:18.344553645+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 7287b3987b78502fc41d864edf5d48b470fd942fe2bd91466c98553bcc62ad8b
@@ -133,7 +133,7 @@ entries:
     version: 0.7.3
   - apiVersion: v1
     appVersion: v1.53.0
-    created: "2021-04-10T14:23:37.903954046+03:00"
+    created: "2021-04-11T13:20:18.341562114+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: c64d8a6d33798cf8259a15953d602e76b412242584d9eaaf67319a545a275c96
@@ -143,7 +143,7 @@ entries:
     version: 0.7.2
   - apiVersion: v1
     appVersion: v1.52.0
-    created: "2021-04-10T14:23:37.892079694+03:00"
+    created: "2021-04-11T13:20:18.329777997+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: da05c0f70e5167baa059f3a4319904a30b7d63f6d9702bd34b97b75d7a0678ba
@@ -153,7 +153,7 @@ entries:
     version: 0.7.1
   - apiVersion: v1
     appVersion: v1.51.0
-    created: "2021-04-10T14:23:37.889918643+03:00"
+    created: "2021-04-11T13:20:18.328256831+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 60ad687cf8f1cc46ba724cdbbbf8b56bb65428b9b5a0d07857de51a2063d5d94
@@ -163,7 +163,7 @@ entries:
     version: 0.7.0
   - apiVersion: v1
     appVersion: v1.51.0
-    created: "2021-04-10T14:23:37.875822304+03:00"
+    created: "2021-04-11T13:20:18.313510568+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: ccaa404753cec9b85456a23e2030af19dde4ddcb8355e60918df92709b316b95
@@ -173,7 +173,7 @@ entries:
     version: 0.6.11
   - apiVersion: v1
     appVersion: v1.50.2
-    created: "2021-04-10T14:23:37.873271825+03:00"
+    created: "2021-04-11T13:20:18.311922185+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: e7cc3c0f65d891e71114103332fc91320a35deec1d06f399c70f6c0988aec41d
@@ -183,7 +183,7 @@ entries:
     version: 0.6.10
   - apiVersion: v1
     appVersion: v1.50.1
-    created: "2021-04-10T14:23:37.887833612+03:00"
+    created: "2021-04-11T13:20:18.326724773+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 11a66812cbedf0125670e65fd2cd6b82640f403b298aa1a968ccfc54d87f8eeb
@@ -193,7 +193,7 @@ entries:
     version: 0.6.8
   - apiVersion: v1
     appVersion: v1.49.0
-    created: "2021-04-10T14:23:37.886261791+03:00"
+    created: "2021-04-11T13:20:18.325145981+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 875e543838875cf49a1c3c9689467ad4fead6532271c008fe0afc2a47a3009d9
@@ -203,7 +203,7 @@ entries:
     version: 0.6.7
   - apiVersion: v1
     appVersion: v1.48.0
-    created: "2021-04-10T14:23:37.884693079+03:00"
+    created: "2021-04-11T13:20:18.322598261+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 9c0e74e26c03b8bbc178e1606930da4468e14f18724f14c0bf5ceb942ead6cc9
@@ -213,7 +213,7 @@ entries:
     version: 0.6.6
   - apiVersion: v1
     appVersion: v1.47.0
-    created: "2021-04-10T14:23:37.883150897+03:00"
+    created: "2021-04-11T13:20:18.321001534+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 12a5823356dfb90adbaab5d6a588ac80dbab644d95dfe2e2d7f80032fc975898
@@ -223,7 +223,7 @@ entries:
     version: 0.6.5
   - apiVersion: v1
     appVersion: v1.46.0
-    created: "2021-04-10T14:23:37.881433938+03:00"
+    created: "2021-04-11T13:20:18.319337475+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 11493fcda5d52e18e4ec80bab49548090dfadaac23f3815323f4ea85634791fe
@@ -233,7 +233,7 @@ entries:
     version: 0.6.4
   - apiVersion: v1
     appVersion: v1.46.0
-    created: "2021-04-10T14:23:37.879291874+03:00"
+    created: "2021-04-11T13:20:18.317827499+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: aecee2bfe0d7ac3d338cf80acc48ce7b57d4eec94d3f02ba8ec253539f7b4d43
@@ -243,7 +243,7 @@ entries:
     version: 0.6.3
   - apiVersion: v1
     appVersion: v1.45.0
-    created: "2021-04-10T14:23:37.877357142+03:00"
+    created: "2021-04-11T13:20:18.316216597+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: abb350a6f0d5e067972957c9ef8544003109bc8344f387f84ebbad729ff5e46c
@@ -253,7 +253,7 @@ entries:
     version: 0.6.2
   - apiVersion: v1
     appVersion: v1.44.0
-    created: "2021-04-10T14:23:37.871732865+03:00"
+    created: "2021-04-11T13:20:18.310432551+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: dd6b986734fc39e8cf34846015ac42b120d39d362d8373f4c04dec6aa87cdacd
@@ -263,7 +263,7 @@ entries:
     version: 0.6.1
   - apiVersion: v1
     appVersion: v1.44.0
-    created: "2021-04-10T14:23:37.870191593+03:00"
+    created: "2021-04-11T13:20:18.308939253+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 8a1bb4c1ea50458795368312fe721add01cf8cfd43aed945e1622c59d0469d8e
@@ -273,7 +273,7 @@ entries:
     version: 0.6.0
   - apiVersion: v1
     appVersion: v1.44.0
-    created: "2021-04-10T14:23:37.867791774+03:00"
+    created: "2021-04-11T13:20:18.307559795+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: ae530ca4aae5284e257be804ab50f9e6ed07e2092908323a48d1b571a3f83051
@@ -283,7 +283,7 @@ entries:
     version: 0.5.9
   - apiVersion: v1
     appVersion: v1.43.0
-    created: "2021-04-10T14:23:37.866405727+03:00"
+    created: "2021-04-11T13:20:18.30632668+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: c1778f8919deb1f668a8731d2772f3d6e2f64545977195ba52d56246a2ce1ed9
@@ -293,7 +293,7 @@ entries:
     version: 0.5.8
   - apiVersion: v1
     appVersion: v1.43.0
-    created: "2021-04-10T14:23:37.864965711+03:00"
+    created: "2021-04-11T13:20:18.304317389+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 877f3c28e67431c888f0fb453ba6f7ed908413027cae878d72308ca54533f0c8
@@ -303,7 +303,7 @@ entries:
     version: 0.5.7
   - apiVersion: v1
     appVersion: v1.42.0
-    created: "2021-04-10T14:23:37.863655779+03:00"
+    created: "2021-04-11T13:20:18.303025586+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: d40d0c8c24285d1343da2c1f5b54e4f8d1174cf2b61b7d2f9bb1c2e2d36f760e
@@ -313,7 +313,7 @@ entries:
     version: 0.5.6
   - apiVersion: v1
     appVersion: v1.41.1
-    created: "2021-04-10T14:23:37.862303421+03:00"
+    created: "2021-04-11T13:20:18.301612014+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: a63b081febbbdbeadda6f51fb954a7244e15644eb17ee70a297e2c95a0a4f2a8
@@ -323,7 +323,7 @@ entries:
     version: 0.5.5
   - apiVersion: v1
     appVersion: v1.41.0
-    created: "2021-04-10T14:23:37.860849562+03:00"
+    created: "2021-04-11T13:20:18.300376227+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: c6f39437f288db46e14df477af24dae35c1767fac60207a984109e570b4d9270
@@ -333,7 +333,7 @@ entries:
     version: 0.5.3
   - apiVersion: v1
     appVersion: v1.41.0
-    created: "2021-04-10T14:23:37.859410413+03:00"
+    created: "2021-04-11T13:20:18.29913005+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 20282e7a60cfeb2f8bd14e2248eca43d1370c33532478f0ede5735f9d7084427
@@ -343,7 +343,7 @@ entries:
     version: 0.5.2
   - apiVersion: v1
     appVersion: v1.40.1
-    created: "2021-04-10T14:23:37.85687037+03:00"
+    created: "2021-04-11T13:20:18.298001704+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: e0668bf97d5f0959a336f9cbbfb8c984c0e2eb8598f274475545936e62f0f4d2
@@ -353,7 +353,7 @@ entries:
     version: 0.5.1
   - apiVersion: v1
     appVersion: v1.40.0
-    created: "2021-04-10T14:23:37.855619541+03:00"
+    created: "2021-04-11T13:20:18.296847017+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: bdb5c31ff389ebc147b5dce1b66e0c967b30a28e7a01a6e6fde99e7f3414b016
@@ -363,7 +363,7 @@ entries:
     version: 0.5.0
   - apiVersion: v1
     appVersion: v1.40.0
-    created: "2021-04-10T14:23:37.845179244+03:00"
+    created: "2021-04-11T13:20:18.286120297+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: a77ce84ea676b5c5291a46d8a8b304706a9ee821ffe1293e22c338be9fde7143
@@ -373,7 +373,7 @@ entries:
     version: 0.4.15
   - apiVersion: v1
     appVersion: v1.39.4
-    created: "2021-04-10T14:23:37.843915924+03:00"
+    created: "2021-04-11T13:20:18.284793765+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 5ac07a53515d410b43587de33c80ecb61b5419b712aaba5652a7f6d7605a6d1c
@@ -383,7 +383,7 @@ entries:
     version: 0.4.14
   - apiVersion: v1
     appVersion: v1.39.3
-    created: "2021-04-10T14:23:37.842637264+03:00"
+    created: "2021-04-11T13:20:18.28292368+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: bb871c71caeae3ff7b66b80b81b63a1a1e7fc4a20205b7cf4f9128640b9e152f
@@ -393,7 +393,7 @@ entries:
     version: 0.4.13
   - apiVersion: v1
     appVersion: v1.39.2
-    created: "2021-04-10T14:23:37.840870241+03:00"
+    created: "2021-04-11T13:20:18.281820828+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: b227e501f90485edea9649f928c7de647ea7cda8346fd465567dab7ad1505af9
@@ -403,7 +403,7 @@ entries:
     version: 0.4.12
   - apiVersion: v1
     appVersion: v1.39.1
-    created: "2021-04-10T14:23:37.839629241+03:00"
+    created: "2021-04-11T13:20:18.280716628+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: db8172b82709494eb9c21b6b8eb28c6232823356e2192bffe35134e91710b77d
@@ -413,7 +413,7 @@ entries:
     version: 0.4.11
   - apiVersion: v1
     appVersion: v1.39.0
-    created: "2021-04-10T14:23:37.838400313+03:00"
+    created: "2021-04-11T13:20:18.27958985+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 17c03a8224219110e92bdd3af414bb096aa224e0b08a49f5324a3439f3208cf0
@@ -423,7 +423,7 @@ entries:
     version: 0.4.10
   - apiVersion: v1
     appVersion: v1.38.1
-    created: "2021-04-10T14:23:37.854366629+03:00"
+    created: "2021-04-11T13:20:18.295647792+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: e33ff5b8b673376de4df221060f77631119d37bae7034ae4bd0583bf93d5f8b8
@@ -433,7 +433,7 @@ entries:
     version: 0.4.9
   - apiVersion: v1
     appVersion: v1.38.1
-    created: "2021-04-10T14:23:37.853117105+03:00"
+    created: "2021-04-11T13:20:18.293901245+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 06e4c56c7dbf80fb0970bdd053beae1f56645f26aed81c62f8a9992917dd2027
@@ -443,7 +443,7 @@ entries:
     version: 0.4.7
   - apiVersion: v1
     appVersion: v1.38.0
-    created: "2021-04-10T14:23:37.85187573+03:00"
+    created: "2021-04-11T13:20:18.292790405+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: bb804e1d5ce707b16ec8282eaeee0fdfc70c66ac58e20825f5b2fe55bf0fbceb
@@ -453,7 +453,7 @@ entries:
     version: 0.4.6
   - apiVersion: v1
     appVersion: v1.37.4
-    created: "2021-04-10T14:23:37.850464513+03:00"
+    created: "2021-04-11T13:20:18.291647941+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: f32e5428aa51d89511a78a367c351eb52c82d0867f8651af2ec5c64131778dfc
@@ -463,7 +463,7 @@ entries:
     version: 0.4.5
   - apiVersion: v1
     appVersion: v1.37.3
-    created: "2021-04-10T14:23:37.849291234+03:00"
+    created: "2021-04-11T13:20:18.290419848+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 0d58778cfe6be1a35b5fae2d3397edfa6fbaa647c2b96d07b305068c6b9194fb
@@ -473,7 +473,7 @@ entries:
     version: 0.4.4
   - apiVersion: v1
     appVersion: v1.37.2
-    created: "2021-04-10T14:23:37.847907078+03:00"
+    created: "2021-04-11T13:20:18.289193014+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: db4e8691f4237eefcfefcbd7f7b94eea38e7000c2ae934281f5d73200e1702e6
@@ -483,7 +483,7 @@ entries:
     version: 0.4.3
   - apiVersion: v1
     appVersion: v1.37.1
-    created: "2021-04-10T14:23:37.846397895+03:00"
+    created: "2021-04-11T13:20:18.287690625+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 734a168d8eed48dea68d04b717e4a2be49eefbcacb7005e011dfd9d04fe6b411
@@ -493,7 +493,7 @@ entries:
     version: 0.4.2
   - apiVersion: v1
     appVersion: v1.37.0
-    created: "2021-04-10T14:23:37.836879147+03:00"
+    created: "2021-04-11T13:20:18.278432951+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 4663bafc4ff793f94c80966458138b6d13e542c1ddd074ca1fea343a6f8a8ef6
@@ -503,7 +503,7 @@ entries:
     version: 0.4.1
   - apiVersion: v1
     appVersion: v1.37.0
-    created: "2021-04-10T14:23:37.835284304+03:00"
+    created: "2021-04-11T13:20:18.277334146+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: df7b4860b4a0a157a2a52a3a6f415a761cdc0292b31ae3207ca2279c4cdc92fc
@@ -513,7 +513,7 @@ entries:
     version: 0.4.0
   - apiVersion: v1
     appVersion: v1.37.0
-    created: "2021-04-10T14:23:37.833945402+03:00"
+    created: "2021-04-11T13:20:18.276024771+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 70996999f80d09d796f86387a629352265e8d2d217ef5ab8ed37e87d590dda01
@@ -523,7 +523,7 @@ entries:
     version: 0.3.9
   - apiVersion: v1
     appVersion: v1.36.3
-    created: "2021-04-10T14:23:37.832815623+03:00"
+    created: "2021-04-11T13:20:18.274262611+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 1cf589bcd11baba2dcaa2ab4c341a89ab8957dab8ab6446c85885cb72d393329
@@ -533,7 +533,7 @@ entries:
     version: 0.3.8
   - apiVersion: v1
     appVersion: v1.36.2
-    created: "2021-04-10T14:23:37.83168292+03:00"
+    created: "2021-04-11T13:20:18.273139378+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: d57ca8b11ef8747c6990e069c3b62211fe5f605d66c637c09fd1d7b08cc4827a
@@ -543,7 +543,7 @@ entries:
     version: 0.3.7
   - apiVersion: v1
     appVersion: v1.36.1
-    created: "2021-04-10T14:23:37.830490237+03:00"
+    created: "2021-04-11T13:20:18.272026772+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 40466001f9671a958ad77020da49bbec7b0efd8210886f560d599fd728e05fc2
@@ -553,7 +553,7 @@ entries:
     version: 0.3.6
   - apiVersion: v1
     appVersion: v1.36.0
-    created: "2021-04-10T14:23:37.829221483+03:00"
+    created: "2021-04-11T13:20:18.270879879+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 066241ac932499c2187e8f18f1961fd73eb9d846133f085d460e1837e673a366
@@ -563,7 +563,7 @@ entries:
     version: 0.3.5
   - apiVersion: v1
     appVersion: v1.35.6
-    created: "2021-04-10T14:23:37.827659076+03:00"
+    created: "2021-04-11T13:20:18.269583106+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 10682bb5963874a95525740a08f9f2273f0bcd6e0f71b5bb9a723e81ec5e8257
@@ -573,7 +573,7 @@ entries:
     version: 0.3.4
   - apiVersion: v1
     appVersion: v1.35.5
-    created: "2021-04-10T14:23:37.824781204+03:00"
+    created: "2021-04-11T13:20:18.268419487+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 818d13619bb6445feab05499cd5a84fe34c46a00331f62a87f6d004907183bbb
@@ -583,7 +583,7 @@ entries:
     version: 0.3.3
   - apiVersion: v1
     appVersion: v1.35.4
-    created: "2021-04-10T14:23:37.823166884+03:00"
+    created: "2021-04-11T13:20:18.267253271+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: f7f93194ad2a988de2e90fdf5a8537af646b1542fda77d60eb58a020aee971da
@@ -593,7 +593,7 @@ entries:
     version: 0.3.2
   - apiVersion: v1
     appVersion: v1.35.4
-    created: "2021-04-10T14:23:37.821982024+03:00"
+    created: "2021-04-11T13:20:18.266144394+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: a3046c1e03675fd8a7a8c0906b3167e3b373db57a0e60fe3a7690ce5cdc3d307
@@ -603,7 +603,7 @@ entries:
     version: 0.3.1
   - apiVersion: v1
     appVersion: v1.35.3
-    created: "2021-04-10T14:23:37.820767752+03:00"
+    created: "2021-04-11T13:20:18.264384628+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 535db7b98616979456679b0b22addd48769987baf2be72dd34fada491df1bcdb
@@ -613,7 +613,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: v1.35.3
-    created: "2021-04-10T14:23:37.819469286+03:00"
+    created: "2021-04-11T13:20:18.263221835+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 5c0c22a5e064a9edd5abd244ed77da168a5f4fdb9e2979d168cf63c7264cf214
@@ -623,7 +623,7 @@ entries:
     version: 0.2.2
   - apiVersion: v1
     appVersion: v1.35.1
-    created: "2021-04-10T14:23:37.81813918+03:00"
+    created: "2021-04-11T13:20:18.262076588+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: f25bcaa7b07536e69a2b2c54429727f1e378b83265bd032c071c2f1c1add03f5
@@ -633,7 +633,7 @@ entries:
     version: 0.2.1
   - apiVersion: v1
     appVersion: v1.35.0
-    created: "2021-04-10T14:23:37.816894095+03:00"
+    created: "2021-04-11T13:20:18.260939035+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 37d92b24a583ab45dd2cd6e87ca0f4f534f4ce7931abebf8d317c4a428ad1233
@@ -643,7 +643,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: v1.34.9
-    created: "2021-04-10T14:23:37.815673474+03:00"
+    created: "2021-04-11T13:20:18.259832611+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: e3414ee667a027625f35ba086d61bdf087f75cc4cf259e8c0d1d9dc91be36822
@@ -653,7 +653,7 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: v1.34.9
-    created: "2021-04-10T14:23:37.815261546+03:00"
+    created: "2021-04-11T13:20:18.259420444+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 2ed646191f3f7ecebf1b4d9d937e70d6f174c07775ecf3bfc7ddf06791b3cfb1
@@ -663,7 +663,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: v1.34.9
-    created: "2021-04-10T14:23:37.814866913+03:00"
+    created: "2021-04-11T13:20:18.259056002+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 49512cd281527715ac350f698ceca7ee87fbe8d9284218fad9e694ea43abfbf0
@@ -673,7 +673,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: v1.34.9
-    created: "2021-04-10T14:23:37.814517095+03:00"
+    created: "2021-04-11T13:20:18.258682353+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 453d466da616315ea189f400dbb37f4606f2dca6b17a27ab0e1df50bfb0b4be6
@@ -683,7 +683,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: v1.34.8
-    created: "2021-04-10T14:23:37.81380115+03:00"
+    created: "2021-04-11T13:20:18.258306435+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 91be8f27d5c012bbddb3e495d6608e1685d27616581bc3b49497e2970d9b9fc8
@@ -693,7 +693,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: v1.34.7
-    created: "2021-04-10T14:23:37.812695008+03:00"
+    created: "2021-04-11T13:20:18.257922685+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: e4258e375c2a99d8990dc8ffa6f0dff4a21c8d39153220324d909f9cb904244f
@@ -703,7 +703,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: v1.34.2
-    created: "2021-04-10T14:23:37.812122376+03:00"
+    created: "2021-04-11T13:20:18.257507057+03:00"
     description: Victoria Metrics Agent - collects metrics from various sources and
       stores them to VictoriaMetrics
     digest: 22ba5b8c554f9ccdfb122535a6838b9e74740a35f964a49d8b7f18c06d45db3a
@@ -714,17 +714,17 @@ entries:
   victoria-metrics-alert:
   - apiVersion: v1
     appVersion: v1.58.0
-    created: "2021-04-10T14:23:37.965951873+03:00"
+    created: "2021-04-11T13:20:18.425417121+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
-    digest: 0c11a65ba6816cdb409779da28ed7bd4629ab6cb88a8d470b3c0b0d0ba16472a
+    digest: d831c06177313cf3fc361fb90e2795f6a8fdd45b109b041a1009cd367d1d6e8b
     name: victoria-metrics-alert
     urls:
     - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-alert-0.3.28.tgz
     version: 0.3.28
   - apiVersion: v1
     appVersion: v1.58.0
-    created: "2021-04-10T14:23:37.965204547+03:00"
+    created: "2021-04-11T13:20:18.424056348+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 62cfe2b8a4228101b14825319cc6ca7aa585c12fe91d7c2d48496186ba62e841
@@ -734,7 +734,7 @@ entries:
     version: 0.3.27
   - apiVersion: v1
     appVersion: v1.57.1
-    created: "2021-04-10T14:23:37.964447249+03:00"
+    created: "2021-04-11T13:20:18.422815344+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 64635cb00cfef22d99d264947edb6a0b7a2cd589b36e5bddcab1a644b5c33622
@@ -744,7 +744,7 @@ entries:
     version: 0.3.26
   - apiVersion: v1
     appVersion: v1.57.0
-    created: "2021-04-10T14:23:37.963682218+03:00"
+    created: "2021-04-11T13:20:18.421423817+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 0b8702e20fba6e8fb479a220895afb6dcc6d6020f3b66fcb93572c45b7a61b31
@@ -754,7 +754,7 @@ entries:
     version: 0.3.25
   - apiVersion: v1
     appVersion: v1.56.0
-    created: "2021-04-10T14:23:37.962878064+03:00"
+    created: "2021-04-11T13:20:18.419885959+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: e02820f1dacb57685d94f3c475cb82c54ab06fb8ed3f53bf01c6217351a24f64
@@ -764,7 +764,7 @@ entries:
     version: 0.3.24
   - apiVersion: v1
     appVersion: v1.56.0
-    created: "2021-04-10T14:23:37.961861811+03:00"
+    created: "2021-04-11T13:20:18.418425092+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: c103e548774ddb22b1ed03fb6e3bd1aeeea9e9591a2840ba7eb51b9c2a801bb4
@@ -774,7 +774,7 @@ entries:
     version: 0.3.23
   - apiVersion: v1
     appVersion: v1.56.0
-    created: "2021-04-10T14:23:37.960328834+03:00"
+    created: "2021-04-11T13:20:18.417091956+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: f4ef2cca4fb992a50a98f7a0f4461a0aa489c3f6e5c765e9748eb636077cbba7
@@ -784,7 +784,7 @@ entries:
     version: 0.3.22
   - apiVersion: v1
     appVersion: v1.55.1
-    created: "2021-04-10T14:23:37.959421714+03:00"
+    created: "2021-04-11T13:20:18.414666114+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 86562efc69a461b671821fd4017b02f7ccfb7e467a04df5d032fc0eb22eec53e
@@ -794,7 +794,7 @@ entries:
     version: 0.3.21
   - apiVersion: v1
     appVersion: v1.55.1
-    created: "2021-04-10T14:23:37.95834248+03:00"
+    created: "2021-04-11T13:20:18.413523831+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: ac8751bfd81a20b1823141cc3b100625e1b84f94b7531a26f7897242a30063b0
@@ -804,7 +804,7 @@ entries:
     version: 0.3.20
   - apiVersion: v1
     appVersion: v1.55.0
-    created: "2021-04-10T14:23:37.956617565+03:00"
+    created: "2021-04-11T13:20:18.411275331+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 9020f5f0668dfb489c49a1a8471e8b7d2ee6630ab50b7fd5f491524c79495067
@@ -814,7 +814,7 @@ entries:
     version: 0.3.19
   - apiVersion: v1
     appVersion: v1.54.1
-    created: "2021-04-10T14:23:37.955851898+03:00"
+    created: "2021-04-11T13:20:18.409987273+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: ccddab0e714f6e50a91f29e35cdf8c0af511d2ca386c1bcd61238c50ec79afff
@@ -824,7 +824,7 @@ entries:
     version: 0.3.18
   - apiVersion: v1
     appVersion: v1.54.1
-    created: "2021-04-10T14:23:37.955025637+03:00"
+    created: "2021-04-11T13:20:18.40883863+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 847f926b68f6d7c100c575e6adcea21573bd33d1e822e216bb42a6de78fbf286
@@ -834,7 +834,7 @@ entries:
     version: 0.3.17
   - apiVersion: v1
     appVersion: v1.54.1
-    created: "2021-04-10T14:23:37.954203907+03:00"
+    created: "2021-04-11T13:20:18.407710689+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 06cbc446d47bacf064b25182e334359b9434044ff5c506bc939f90c93e0cde13
@@ -844,7 +844,7 @@ entries:
     version: 0.3.16
   - apiVersion: v1
     appVersion: v1.54.0
-    created: "2021-04-10T14:23:37.953358236+03:00"
+    created: "2021-04-11T13:20:18.406603626+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 2856dd35a946b23da0358453703e94182e387f327acaa797c8e338db214d0eb8
@@ -854,7 +854,7 @@ entries:
     version: 0.3.15
   - apiVersion: v1
     appVersion: v1.53.1
-    created: "2021-04-10T14:23:37.952534882+03:00"
+    created: "2021-04-11T13:20:18.405462243+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 984cada88c217daf5ffe88ea7dda8f97c7b8c9e3f2c7d62cee5e2b9a3374108c
@@ -864,7 +864,7 @@ entries:
     version: 0.3.14
   - apiVersion: v1
     appVersion: v1.53.0
-    created: "2021-04-10T14:23:37.95148453+03:00"
+    created: "2021-04-11T13:20:18.404320542+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: f7e8b0700b13cd4f884da4c7adbbfd1133602dd7e5682da9c73d1ffde215d019
@@ -874,7 +874,7 @@ entries:
     version: 0.3.13
   - apiVersion: v1
     appVersion: v1.52.0
-    created: "2021-04-10T14:23:37.950111253+03:00"
+    created: "2021-04-11T13:20:18.402064096+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: d304ff2d2c0ef514d8e7b2be4c9e94ab751e58399b4cfbb9032c68115842a4e5
@@ -884,7 +884,7 @@ entries:
     version: 0.3.12
   - apiVersion: v1
     appVersion: v1.51.0
-    created: "2021-04-10T14:23:37.949391692+03:00"
+    created: "2021-04-11T13:20:18.40045452+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 4e1b389475bf8914a8404efcbda1b5ee06a4bf88bd42bf26c4d8edc08a939fc4
@@ -894,7 +894,7 @@ entries:
     version: 0.3.11
   - apiVersion: v1
     appVersion: v1.50.2
-    created: "2021-04-10T14:23:37.948656766+03:00"
+    created: "2021-04-11T13:20:18.399048275+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 230888253336a4fabf89574b1d705fcbade33468e4a850560144f791ddf61455
@@ -904,7 +904,7 @@ entries:
     version: 0.3.10
   - apiVersion: v1
     appVersion: v1.50.1
-    created: "2021-04-10T14:23:37.97117522+03:00"
+    created: "2021-04-11T13:20:18.432308127+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: a42e7d59b2209bbacff9c5fca44b408d0a39c5f763c7eee6a9d8fa847ebdf903
@@ -914,7 +914,7 @@ entries:
     version: 0.3.8
   - apiVersion: v1
     appVersion: v1.49.0
-    created: "2021-04-10T14:23:37.970416677+03:00"
+    created: "2021-04-11T13:20:18.431355151+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 39aeb112225428dd5849942af721b0370d3e633f23bd6d95051198825d026411
@@ -924,7 +924,7 @@ entries:
     version: 0.3.7
   - apiVersion: v1
     appVersion: v1.48.0
-    created: "2021-04-10T14:23:37.968966152+03:00"
+    created: "2021-04-11T13:20:18.429962788+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: c5f421de362efc7e5d6bb17d6bccc1e22171319ee0e59c5424e3aa2a86649e3f
@@ -934,7 +934,7 @@ entries:
     version: 0.3.6
   - apiVersion: v1
     appVersion: v1.47.0
-    created: "2021-04-10T14:23:37.968220034+03:00"
+    created: "2021-04-11T13:20:18.428611908+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 2cbd4f4911e05714e4138207635f001d3c8d561f071fca575d6d0635fb47808c
@@ -944,7 +944,7 @@ entries:
     version: 0.3.5
   - apiVersion: v1
     appVersion: v1.47.0
-    created: "2021-04-10T14:23:37.967446075+03:00"
+    created: "2021-04-11T13:20:18.427594575+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 47c1ab439611edf22c278a046fac1b37ea9d83c1b94d8d4c15ee1330135509f6
@@ -954,7 +954,7 @@ entries:
     version: 0.3.4
   - apiVersion: v1
     appVersion: v1.46.0
-    created: "2021-04-10T14:23:37.966653576+03:00"
+    created: "2021-04-11T13:20:18.426598325+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 2e96060cf4c9956a3e1e1e1a11357e5cc45fd55e5cf8fefc9da0378cee52baaf
@@ -964,7 +964,7 @@ entries:
     version: 0.3.3
   - apiVersion: v1
     appVersion: v1.46.0
-    created: "2021-04-10T14:23:37.957340467+03:00"
+    created: "2021-04-11T13:20:18.412363757+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 21ff1ffb93a5a3bb81db6b917f0200907ca2a33bf4b771f91cc55d1c872e318c
@@ -974,7 +974,7 @@ entries:
     version: 0.3.2
   - apiVersion: v1
     appVersion: v1.45.0
-    created: "2021-04-10T14:23:37.947930592+03:00"
+    created: "2021-04-11T13:20:18.397655489+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 360075abbfd953a4998f5017f62bf057baa814d8480546e53251ff2597355837
@@ -984,7 +984,7 @@ entries:
     version: 0.3.1
   - apiVersion: v1
     appVersion: v1.44.0
-    created: "2021-04-10T14:23:37.947208846+03:00"
+    created: "2021-04-11T13:20:18.396329518+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: e594e972643d81dd38587410a3a6dd3f49bf540412bec9e826d9c6cedcdc92e3
@@ -994,7 +994,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: v1.44.0
-    created: "2021-04-10T14:23:37.946535116+03:00"
+    created: "2021-04-11T13:20:18.394782106+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: b4fc49c79f80375edc54199628823e8f689db0748df2e7ef00f3156f61e55fdb
@@ -1004,7 +1004,7 @@ entries:
     version: 0.2.8
   - apiVersion: v1
     appVersion: v1.43.0
-    created: "2021-04-10T14:23:37.945875499+03:00"
+    created: "2021-04-11T13:20:18.393346968+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 698b03d20b969cc1ff5147ea5fdee199c171b051ee14dbd53eb09d6139c5a947
@@ -1014,7 +1014,7 @@ entries:
     version: 0.2.7
   - apiVersion: v1
     appVersion: v1.43.0
-    created: "2021-04-10T14:23:37.94521492+03:00"
+    created: "2021-04-11T13:20:18.391991972+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 64f8d1ea9774a5b57d66147dc718a7c6069fe7182e0107761263d77ea9632771
@@ -1024,7 +1024,7 @@ entries:
     version: 0.2.6
   - apiVersion: v1
     appVersion: v1.42.0
-    created: "2021-04-10T14:23:37.944143099+03:00"
+    created: "2021-04-11T13:20:18.390538941+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 436f0fb3cf558263f235db3affe8cff76c23758bac31c198597687e898a6f7f3
@@ -1034,7 +1034,7 @@ entries:
     version: 0.2.5
   - apiVersion: v1
     appVersion: v1.41.1
-    created: "2021-04-10T14:23:37.942830941+03:00"
+    created: "2021-04-11T13:20:18.389027832+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 6a6250b5923a9cfe9e9ff352f8b1580f0dea004f5af4509cc99c9a1fa30d5c3e
@@ -1044,7 +1044,7 @@ entries:
     version: 0.2.4
   - apiVersion: v1
     appVersion: v1.41.0
-    created: "2021-04-10T14:23:37.941632704+03:00"
+    created: "2021-04-11T13:20:18.387569738+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: c6e846e0c79c355d52371b1a3170139d972e04fd087f0f7e8aee958a4d8dae32
@@ -1054,7 +1054,7 @@ entries:
     version: 0.2.3
   - apiVersion: v1
     appVersion: v1.41.0
-    created: "2021-04-10T14:23:37.939995323+03:00"
+    created: "2021-04-11T13:20:18.385904453+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 25b336f8f98c230dac6960ef008f1d4bd8e6c5d8d63b74208fb1c54772a049a8
@@ -1064,7 +1064,7 @@ entries:
     version: 0.2.2
   - apiVersion: v1
     appVersion: v1.40.1
-    created: "2021-04-10T14:23:37.93922695+03:00"
+    created: "2021-04-11T13:20:18.383933286+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: c4f9d4969f38eee2fdbc15fa0cf00611efc1e6810ca55c0b8e8fb857e96e3512
@@ -1074,7 +1074,7 @@ entries:
     version: 0.2.1
   - apiVersion: v1
     appVersion: v1.40.0
-    created: "2021-04-10T14:23:37.938499642+03:00"
+    created: "2021-04-11T13:20:18.382027407+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 43d0bdd756a5cda5918f5b784277f703310fb43fd3641088ef0ac8fb9ba7e827
@@ -1084,7 +1084,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: v1.40.0
-    created: "2021-04-10T14:23:37.93769401+03:00"
+    created: "2021-04-11T13:20:18.381261574+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 9685a512a7d8577dd4b0d0ac045e3dc475c170f87427f3da8fafc67a929a407c
@@ -1094,7 +1094,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: v1.39.4
-    created: "2021-04-10T14:23:37.936899395+03:00"
+    created: "2021-04-11T13:20:18.38045237+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 797309607893e18047d6255bcada6c90529ae0c153cf3f08cb711d76d04d57d3
@@ -1104,7 +1104,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: v1.39.3
-    created: "2021-04-10T14:23:37.936171575+03:00"
+    created: "2021-04-11T13:20:18.379776358+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 72f5ee6cc160f7e0b455db3598df155230d57a0833e6bb7f3b826229df702cb9
@@ -1114,7 +1114,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: v1.39.2
-    created: "2021-04-10T14:23:37.935359401+03:00"
+    created: "2021-04-11T13:20:18.379121989+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: edfc38233035190f20cd65c3f2150404ce1c98056b90e07a504de06e7a4902bb
@@ -1124,7 +1124,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: v1.39.1
-    created: "2021-04-10T14:23:37.93455072+03:00"
+    created: "2021-04-11T13:20:18.378256219+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: bde926d3c0174e08ae45f3800609481fc213d89a19cf13f2ca081f307e8fb518
@@ -1134,7 +1134,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: v1.39.0
-    created: "2021-04-10T14:23:37.933843495+03:00"
+    created: "2021-04-11T13:20:18.377524681+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: ba860340501bca2d9d6de9b5821398ea174a47e343eed9798a80b0cdce099551
@@ -1144,7 +1144,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: v1.38.1
-    created: "2021-04-10T14:23:37.928257037+03:00"
+    created: "2021-04-11T13:20:18.371933915+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 79b1b3c6fb3765b9cef50e7cc822e7c83504a907d64f5d404ae62920ebc08875
@@ -1154,7 +1154,7 @@ entries:
     version: 0.0.19
   - apiVersion: v1
     appVersion: v1.38.1
-    created: "2021-04-10T14:23:37.927046946+03:00"
+    created: "2021-04-11T13:20:18.370872773+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 491502b3dfad3f17d5a426b42ee8218521e7b3cb1b8b2c3a4c423344530ef531
@@ -1164,7 +1164,7 @@ entries:
     version: 0.0.18
   - apiVersion: v1
     appVersion: v1.38.0
-    created: "2021-04-10T14:23:37.925890768+03:00"
+    created: "2021-04-11T13:20:18.369076611+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 0c00725146713bf90f47c4d7faa19a5b5f21a5c110c2dedcbcffa1cd9d77ee8d
@@ -1174,7 +1174,7 @@ entries:
     version: 0.0.17
   - apiVersion: v1
     appVersion: v1.37.4
-    created: "2021-04-10T14:23:37.924895128+03:00"
+    created: "2021-04-11T13:20:18.368017784+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: bfdbdfd3d7a559fcd25e0d9197ea03c929a27c47a81c3165b9ee740938cffd68
@@ -1184,7 +1184,7 @@ entries:
     version: 0.0.16
   - apiVersion: v1
     appVersion: v1.37.3
-    created: "2021-04-10T14:23:37.92409026+03:00"
+    created: "2021-04-11T13:20:18.367002023+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 521c9613b406716d08bed890d9f10b5ca7472cb15696d8fbd33abf8b58f017d0
@@ -1194,7 +1194,7 @@ entries:
     version: 0.0.15
   - apiVersion: v1
     appVersion: v1.37.2
-    created: "2021-04-10T14:23:37.923345481+03:00"
+    created: "2021-04-11T13:20:18.366065474+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 01d47a1441b4a5df5737e7377d8c01adc3c3705b88f613c00d1bf49033485b36
@@ -1204,7 +1204,7 @@ entries:
     version: 0.0.14
   - apiVersion: v1
     appVersion: v1.37.1
-    created: "2021-04-10T14:23:37.922697001+03:00"
+    created: "2021-04-11T13:20:18.365102551+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 62890cb69d70809dd892956bd85eff35dca3bb6af4128b2c406e71b08200aacf
@@ -1214,7 +1214,7 @@ entries:
     version: 0.0.13
   - apiVersion: v1
     appVersion: v1.37.0
-    created: "2021-04-10T14:23:37.922063636+03:00"
+    created: "2021-04-11T13:20:18.364197978+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: f1cbeef1ab6d5effdad56bb940fe66abee2349b29b13fb5fea0d070beb5cd690
@@ -1224,7 +1224,7 @@ entries:
     version: 0.0.12
   - apiVersion: v1
     appVersion: v1.37.0
-    created: "2021-04-10T14:23:37.92137648+03:00"
+    created: "2021-04-11T13:20:18.363184764+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: bfe8a827411fd8ab460fd302d1fb5f3037155af791ee43281c1535664cc17ba7
@@ -1234,7 +1234,7 @@ entries:
     version: 0.0.11
   - apiVersion: v1
     appVersion: v1.36.3
-    created: "2021-04-10T14:23:37.919759971+03:00"
+    created: "2021-04-11T13:20:18.362278208+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 24a5f4db3ef228cd78bfecdef0d7458fc0d6b851dc70cef1b0e001750c1c5acc
@@ -1244,7 +1244,7 @@ entries:
     version: 0.0.10
   - apiVersion: v1
     appVersion: v1.36.2
-    created: "2021-04-10T14:23:37.933179375+03:00"
+    created: "2021-04-11T13:20:18.376645779+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: ac6412ab64a447f106b9de5b348e51c1740940690c3fdeaa9a956cac284ac0c7
@@ -1254,7 +1254,7 @@ entries:
     version: 0.0.9
   - apiVersion: v1
     appVersion: v1.36.1
-    created: "2021-04-10T14:23:37.932695029+03:00"
+    created: "2021-04-11T13:20:18.375892535+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: ec645328d6381e7d54d52394799dca11f7da0f13d44eb23c8f02dc2523475518
@@ -1264,7 +1264,7 @@ entries:
     version: 0.0.8
   - apiVersion: v1
     appVersion: v1.36.0
-    created: "2021-04-10T14:23:37.932119364+03:00"
+    created: "2021-04-11T13:20:18.375162173+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 2bfb3c61c48a4edd01bc09b2fb05d42c595cacdfacba8a0dba0524804ff7871e
@@ -1274,7 +1274,7 @@ entries:
     version: 0.0.7
   - apiVersion: v1
     appVersion: v1.35.6
-    created: "2021-04-10T14:23:37.930768694+03:00"
+    created: "2021-04-11T13:20:18.37427727+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 6373518c059c86b5526b77576dd71757f70fe502a6431f97249e961937e9bd2e
@@ -1284,7 +1284,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: v1.35.6
-    created: "2021-04-10T14:23:37.9302781+03:00"
+    created: "2021-04-11T13:20:18.373646385+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 3566b9c07261bf77071af9fc1cf84bb2624b7e10748f4a003df51e9772bc5528
@@ -1294,7 +1294,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: v1.35.5
-    created: "2021-04-10T14:23:37.929786503+03:00"
+    created: "2021-04-11T13:20:18.373012674+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 73c3beaafe9bcacd17d2f9478aeccb3721cb676132d6304b2f40b456bfd362b4
@@ -1304,7 +1304,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: v1.35.4
-    created: "2021-04-10T14:23:37.929129522+03:00"
+    created: "2021-04-11T13:20:18.372484365+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 4e7c9bbab63e5ea38a48c9fe07688d4b0378e9963d9297d51b1235a4c316d3aa
@@ -1314,7 +1314,7 @@ entries:
     version: 0.0.2
   - apiVersion: v1
     appVersion: v1.35.3
-    created: "2021-04-10T14:23:37.919035282+03:00"
+    created: "2021-04-11T13:20:18.361562468+03:00"
     description: Victoria Metrics Alert - executes a list of given MetricsQL expressions
       (rules) and sends alerts to Alert Manager.
     digest: 8180dab5ba9e6f668288644307b116c0510383c7451e5676e55cdddbe371d906
@@ -1325,16 +1325,16 @@ entries:
   victoria-metrics-auth:
   - apiVersion: v1
     appVersion: 1.58.0
-    created: "2021-04-10T14:23:37.981994787+03:00"
+    created: "2021-04-11T13:20:18.446806932+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
-    digest: a64ae87a0dd15eed634fb381fa1c105898c0658a2bad122ef5aa500614131392
+    digest: 9d2b255767a4548350fec7921262697f3e58aab95c0f72b34a42afe9ba1ac348
     name: victoria-metrics-auth
     urls:
     - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-auth-0.2.19.tgz
     version: 0.2.19
   - apiVersion: v1
     appVersion: 1.57.1
-    created: "2021-04-10T14:23:37.981366554+03:00"
+    created: "2021-04-11T13:20:18.445915699+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
     digest: c2a0b32181e1d0b90f2e4de5f8ce0d63c5a9ae2fe3e0272463add94c38dfb86d
     name: victoria-metrics-auth
@@ -1343,7 +1343,7 @@ entries:
     version: 0.2.18
   - apiVersion: v1
     appVersion: 1.57.0
-    created: "2021-04-10T14:23:37.980709072+03:00"
+    created: "2021-04-11T13:20:18.444623805+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
     digest: 8c3272ebe29f3b23f96dd3694b6f23107b5edeeb84a88936318413c2e7be1ef4
     name: victoria-metrics-auth
@@ -1352,7 +1352,7 @@ entries:
     version: 0.2.17
   - apiVersion: v1
     appVersion: 1.56.0
-    created: "2021-04-10T14:23:37.979420674+03:00"
+    created: "2021-04-11T13:20:18.442796634+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
     digest: 7ecbb1de2c47755da872d795eca75afa54509a4fa55facfcb200190376f0efcc
     name: victoria-metrics-auth
@@ -1361,7 +1361,7 @@ entries:
     version: 0.2.16
   - apiVersion: v1
     appVersion: 1.55.1
-    created: "2021-04-10T14:23:37.978762458+03:00"
+    created: "2021-04-11T13:20:18.441899516+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
     digest: 5cf2ac063fe2b5002084ce93eb4a981404379fa4a1663cd183cbd7e13a6a4b86
     name: victoria-metrics-auth
@@ -1370,7 +1370,7 @@ entries:
     version: 0.2.15
   - apiVersion: v1
     appVersion: 1.55.0
-    created: "2021-04-10T14:23:37.978107264+03:00"
+    created: "2021-04-11T13:20:18.440989225+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
     digest: eedfcdc5fbb6275482677171e56b999429423ded9c7db403f2682fd525241c31
     name: victoria-metrics-auth
@@ -1379,7 +1379,7 @@ entries:
     version: 0.2.14
   - apiVersion: v1
     appVersion: 1.54.1
-    created: "2021-04-10T14:23:37.976926601+03:00"
+    created: "2021-04-11T13:20:18.440018819+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
     digest: 4126b1c4f9a65837f663a427bc33f9ae81985da08e4d303bbb2f8708eb6ddd08
     name: victoria-metrics-auth
@@ -1388,7 +1388,7 @@ entries:
     version: 0.2.13
   - apiVersion: v1
     appVersion: 1.54.1
-    created: "2021-04-10T14:23:37.97566007+03:00"
+    created: "2021-04-11T13:20:18.438981963+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
     digest: a278bd0935eb99871f0ec90d464035a189b5d6945cbfa818f1198e7bab81e66d
     name: victoria-metrics-auth
@@ -1397,7 +1397,7 @@ entries:
     version: 0.2.12
   - apiVersion: v1
     appVersion: 1.54.0
-    created: "2021-04-10T14:23:37.974507054+03:00"
+    created: "2021-04-11T13:20:18.437853685+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
     digest: 8515ce9ebb939f99a3d783c39008817dbb9ed363c2104f61c683dd7256c54f7d
     name: victoria-metrics-auth
@@ -1406,7 +1406,7 @@ entries:
     version: 0.2.11
   - apiVersion: v1
     appVersion: 1.53.1
-    created: "2021-04-10T14:23:37.973767689+03:00"
+    created: "2021-04-11T13:20:18.436692767+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
     digest: 2ac4180ac8a3972cddbdaff7eda82efdf94981aca61db7b3287853a2dde081ec
     name: victoria-metrics-auth
@@ -1415,7 +1415,7 @@ entries:
     version: 0.2.10
   - apiVersion: v1
     appVersion: 1.53.0
-    created: "2021-04-10T14:23:37.986709161+03:00"
+    created: "2021-04-11T13:20:18.45549031+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
     digest: adf0212de375d7d2050857f1e225af38eb8c826673274dc37b6b7de2215c7d79
     name: victoria-metrics-auth
@@ -1424,7 +1424,7 @@ entries:
     version: 0.2.9
   - apiVersion: v1
     appVersion: 1.52.0
-    created: "2021-04-10T14:23:37.986018604+03:00"
+    created: "2021-04-11T13:20:18.454619532+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
     digest: b2b6125819814c58f6acf4194bc91a999a983a97d57bf6c49dd4ff57d05d9fea
     name: victoria-metrics-auth
@@ -1433,7 +1433,7 @@ entries:
     version: 0.2.8
   - apiVersion: v1
     appVersion: 1.51.0
-    created: "2021-04-10T14:23:37.985307862+03:00"
+    created: "2021-04-11T13:20:18.45366105+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
     digest: bfc23e65e72925282aac9ae9507fb34ef39d85af30ec9a92f91f09ad4f481bbf
     name: victoria-metrics-auth
@@ -1442,7 +1442,7 @@ entries:
     version: 0.2.7
   - apiVersion: v1
     appVersion: 1.50.2
-    created: "2021-04-10T14:23:37.984643694+03:00"
+    created: "2021-04-11T13:20:18.452030736+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
     digest: 2bdf22d31ba331407e2a58f76c82991a1a7cf76a3b84e9c3cf7afc85cf7a8a7a
     name: victoria-metrics-auth
@@ -1451,7 +1451,7 @@ entries:
     version: 0.2.6
   - apiVersion: v1
     appVersion: 1.50.1
-    created: "2021-04-10T14:23:37.983972017+03:00"
+    created: "2021-04-11T13:20:18.450755189+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
     digest: ff7a36b95b79d4711571df0fc15db8bc380d2201d0dd9b5569108505d0c9ab5b
     name: victoria-metrics-auth
@@ -1460,7 +1460,7 @@ entries:
     version: 0.2.4
   - apiVersion: v1
     appVersion: 1.49.0
-    created: "2021-04-10T14:23:37.983349425+03:00"
+    created: "2021-04-11T13:20:18.449323244+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
     digest: 9e7efa43014cbdf1558ea687f273486f4d29c83ce6c56ff18378feddc179a07b
     name: victoria-metrics-auth
@@ -1469,7 +1469,7 @@ entries:
     version: 0.2.3
   - apiVersion: v1
     appVersion: 1.48.0
-    created: "2021-04-10T14:23:37.982726169+03:00"
+    created: "2021-04-11T13:20:18.44796854+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
     digest: 03b310d3b6e90b7fefbadf9d37de73ca03e58a891105a0c3da1afaff8f7aa618
     name: victoria-metrics-auth
@@ -1478,7 +1478,7 @@ entries:
     version: 0.2.2
   - apiVersion: v1
     appVersion: 1.47.0
-    created: "2021-04-10T14:23:37.97309101+03:00"
+    created: "2021-04-11T13:20:18.435217261+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
     digest: 6f1af3cfde84d191b528cd8b26ddddf45209edad21c71a4ccba69954898a3dd4
     name: victoria-metrics-auth
@@ -1487,7 +1487,7 @@ entries:
     version: 0.2.1
   - apiVersion: v1
     appVersion: 1.47.0
-    created: "2021-04-10T14:23:37.972478197+03:00"
+    created: "2021-04-11T13:20:18.433962979+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
     digest: 05e8e89d3ed6df94537a716603d71fd566e06e795c6fa1b9235e3543c3cfb8ec
     name: victoria-metrics-auth
@@ -1496,7 +1496,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 1.46.0
-    created: "2021-04-10T14:23:37.971888192+03:00"
+    created: "2021-04-11T13:20:18.43314968+03:00"
     description: Victoria Metrics Auth - is a simple auth proxy and router for VictoriaMetrics.
     digest: cf705260c902d7916f8a9ebd9ea7ebac2786bd51fa43642b2e1915c68077df08
     name: victoria-metrics-auth
@@ -1506,17 +1506,17 @@ entries:
   victoria-metrics-cluster:
   - apiVersion: v1
     appVersion: 1.58.0
-    created: "2021-04-10T14:23:38.085387266+03:00"
+    created: "2021-04-11T13:20:18.59009956+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
-    digest: 9bf9426b350b6554d0ec1c9c42d409f7440c85402baaf012535996af09700ebe
+    digest: f7e271bc9dd5bf7f79a8049a00faab87c14b1e90840c39ad312bd0ae0f1adadf
     name: victoria-metrics-cluster
     urls:
     - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-cluster-0.8.24.tgz
     version: 0.8.24
   - apiVersion: v1
     appVersion: 1.57.1
-    created: "2021-04-10T14:23:38.083584925+03:00"
+    created: "2021-04-11T13:20:18.58762729+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 0cf4e8fdeae01b97e9d3f4a2e792f66aa61b1324e473cce0379562b3edcd6978
@@ -1526,7 +1526,7 @@ entries:
     version: 0.8.22
   - apiVersion: v1
     appVersion: 1.57.1
-    created: "2021-04-10T14:23:38.081954472+03:00"
+    created: "2021-04-11T13:20:18.585037682+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 9a86866994f01299d11b383368823fb3cc1e18111ea66ddb2f78ee8152cc3094
@@ -1536,7 +1536,7 @@ entries:
     version: 0.8.21
   - apiVersion: v1
     appVersion: 1.57.1
-    created: "2021-04-10T14:23:38.079835018+03:00"
+    created: "2021-04-11T13:20:18.582017709+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: b57577f929082b735548db97459313e01943531fef982fc4270de48059904e14
@@ -1546,7 +1546,7 @@ entries:
     version: 0.8.20
   - apiVersion: v1
     appVersion: 1.57.0
-    created: "2021-04-10T14:23:38.077082205+03:00"
+    created: "2021-04-11T13:20:18.577213087+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 57969f30cdc49447bcdf364af019bce27bb168e3d2ae21d87fe5237b4abae101
@@ -1556,7 +1556,7 @@ entries:
     version: 0.8.19
   - apiVersion: v1
     appVersion: 1.56.0
-    created: "2021-04-10T14:23:38.07484112+03:00"
+    created: "2021-04-11T13:20:18.574795673+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 05cbf2a3df0312ad715313e6828c8a93f213346830e7f7c84e47332fc2e8e5fe
@@ -1566,7 +1566,7 @@ entries:
     version: 0.8.18
   - apiVersion: v1
     appVersion: 1.55.1
-    created: "2021-04-10T14:23:38.073081567+03:00"
+    created: "2021-04-11T13:20:18.572303453+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 94d9c87ac679e1e8a2431200b3f11d9a2dc250d622ebd3f925c8e0ad598597d6
@@ -1576,7 +1576,7 @@ entries:
     version: 0.8.17
   - apiVersion: v1
     appVersion: 1.55.0
-    created: "2021-04-10T14:23:38.071489781+03:00"
+    created: "2021-04-11T13:20:18.569816811+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 3d40977791c81fca274c8dd4987abb05e0b6b98b7fa92414418d198fa067b303
@@ -1586,7 +1586,7 @@ entries:
     version: 0.8.16
   - apiVersion: v1
     appVersion: 1.54.1
-    created: "2021-04-10T14:23:38.069240792+03:00"
+    created: "2021-04-11T13:20:18.56718916+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 989152131703969255e53154d5daf67eff425c9fd4e8210b395bd31e16f21bbf
@@ -1596,7 +1596,7 @@ entries:
     version: 0.8.15
   - apiVersion: v1
     appVersion: 1.54.1
-    created: "2021-04-10T14:23:38.067473229+03:00"
+    created: "2021-04-11T13:20:18.56552848+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: b070d69f70ddf583126d5edae175ac494d72fc2b80dbee09214e66cd241a6072
@@ -1606,7 +1606,7 @@ entries:
     version: 0.8.14
   - apiVersion: v1
     appVersion: 1.54.0
-    created: "2021-04-10T14:23:38.066073712+03:00"
+    created: "2021-04-11T13:20:18.564080074+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 5f1af02d653fd50079f37e0cdaab5c024aa3b833931cc22f244b767dda59c312
@@ -1616,7 +1616,7 @@ entries:
     version: 0.8.13
   - apiVersion: v1
     appVersion: 1.53.1
-    created: "2021-04-10T14:23:38.064820479+03:00"
+    created: "2021-04-11T13:20:18.562677992+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 4cdb2425398af2e94c5e9ea2694eb62f346040b4b716bfe297b72bd4a71fb0bc
@@ -1626,7 +1626,7 @@ entries:
     version: 0.8.12
   - apiVersion: v1
     appVersion: 1.53.0
-    created: "2021-04-10T14:23:38.063595656+03:00"
+    created: "2021-04-11T13:20:18.56112541+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 393782ff41d645af05a49d9c0057805e68a6e815d5321ce86b186df54e0ffe0a
@@ -1636,7 +1636,7 @@ entries:
     version: 0.8.11
   - apiVersion: v1
     appVersion: 1.52.0
-    created: "2021-04-10T14:23:38.061877951+03:00"
+    created: "2021-04-11T13:20:18.559620164+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 1c418fa91a0306c6b974221767489b8b96cc9a291846bb06e4b33b3b16696d16
@@ -1646,7 +1646,7 @@ entries:
     version: 0.8.10
   - apiVersion: v1
     appVersion: 1.51.0
-    created: "2021-04-10T14:23:38.095042381+03:00"
+    created: "2021-04-11T13:20:18.604621924+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: e63187e2e1dc54c4927397071342f8b2ba43b4fdce0d783f826cd6f7c3858c01
@@ -1656,7 +1656,7 @@ entries:
     version: 0.8.9
   - apiVersion: v1
     appVersion: 1.50.2
-    created: "2021-04-10T14:23:38.093594164+03:00"
+    created: "2021-04-11T13:20:18.602466963+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 15a015d536df3dfe6309dd20172258e0a7adaba22aca71cca1cde2d567f81703
@@ -1666,7 +1666,7 @@ entries:
     version: 0.8.8
   - apiVersion: v1
     appVersion: 1.50.2
-    created: "2021-04-10T14:23:38.092142326+03:00"
+    created: "2021-04-11T13:20:18.600487009+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 178cb9666954a7758f95afb4c9c5721f1e4634cd16e61c892ec0ebcb9669657a
@@ -1676,7 +1676,7 @@ entries:
     version: 0.8.7
   - apiVersion: v1
     appVersion: 1.50.1
-    created: "2021-04-10T14:23:38.089578652+03:00"
+    created: "2021-04-11T13:20:18.596552921+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: b108c2e8b93edf6a5b888c35780ddf2f90d24d6f01e9ef8f24ecaf4e0d035cee
@@ -1686,7 +1686,7 @@ entries:
     version: 0.8.5
   - apiVersion: v1
     appVersion: 1.49.0
-    created: "2021-04-10T14:23:38.088299145+03:00"
+    created: "2021-04-11T13:20:18.594453446+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 6a332305cf05d529f0c6fe2721c988c20d0147ab79f6b97ab359c770db52eaaf
@@ -1696,7 +1696,7 @@ entries:
     version: 0.8.4
   - apiVersion: v1
     appVersion: 1.48.0
-    created: "2021-04-10T14:23:38.086772607+03:00"
+    created: "2021-04-11T13:20:18.592250764+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 79e4a673f8d0ce06120d22ac8880b6c5e214e20ff4b1b299cd35b98f4af5cab9
@@ -1706,7 +1706,7 @@ entries:
     version: 0.8.3
   - apiVersion: v1
     appVersion: 1.47.0
-    created: "2021-04-10T14:23:38.078480426+03:00"
+    created: "2021-04-11T13:20:18.579722753+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: dac3f9ca8dc80f2e06a79dabaccbb4a9d3a9b050ba86e67f9f08485bab82c394
@@ -1716,7 +1716,7 @@ entries:
     version: 0.8.2
   - apiVersion: v1
     appVersion: 1.46.0
-    created: "2021-04-10T14:23:38.059044985+03:00"
+    created: "2021-04-11T13:20:18.557466854+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 27feda4ca0e732a7fe6a6f47294c0d76222572be668abd057c05d2aec4609da1
@@ -1726,7 +1726,7 @@ entries:
     version: 0.8.1
   - apiVersion: v1
     appVersion: 1.46.0
-    created: "2021-04-10T14:23:38.057214664+03:00"
+    created: "2021-04-11T13:20:18.55595864+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: a115aaefbe1977e6de1d3a05aaef16d7892d593a0d7ee4164277fd37f24474e6
@@ -1736,7 +1736,7 @@ entries:
     version: 0.8.0
   - apiVersion: v1
     appVersion: 1.46.0
-    created: "2021-04-10T14:23:38.05598795+03:00"
+    created: "2021-04-11T13:20:18.554623559+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 82966d96c9bd661b0c4e6eb03957ccb8706cec922bc5a8fdd109f6d079ecaeef
@@ -1746,7 +1746,7 @@ entries:
     version: 0.7.2
   - apiVersion: v1
     appVersion: 1.45.0
-    created: "2021-04-10T14:23:38.054738787+03:00"
+    created: "2021-04-11T13:20:18.553175993+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 4ce02282efbd32e3550a0d185b77190cb78f1e042d7021c9f9e8c7cb6798307d
@@ -1756,7 +1756,7 @@ entries:
     version: 0.7.1
   - apiVersion: v1
     appVersion: 1.44.0
-    created: "2021-04-10T14:23:38.053526174+03:00"
+    created: "2021-04-11T13:20:18.551712594+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: af96788af8078770e75b21b4226a577f418cc3fa9843dbbaba64db2508716d2d
@@ -1766,7 +1766,7 @@ entries:
     version: 0.7.0
   - apiVersion: v1
     appVersion: 1.44.0
-    created: "2021-04-10T14:23:38.040940202+03:00"
+    created: "2021-04-11T13:20:18.533618113+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: b2250f4dcecf70c83fa36c0c515c19411183805c1e8521de704eddee375739dc
@@ -1776,7 +1776,7 @@ entries:
     version: 0.6.12
   - apiVersion: v1
     appVersion: 1.43.0
-    created: "2021-04-10T14:23:38.039694461+03:00"
+    created: "2021-04-11T13:20:18.53225598+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: f51a2bd35ce3a258fa2d133184be64bea8540895e24fc685d2b975cc3cc790e3
@@ -1786,7 +1786,7 @@ entries:
     version: 0.6.11
   - apiVersion: v1
     appVersion: 1.43.0
-    created: "2021-04-10T14:23:38.038570716+03:00"
+    created: "2021-04-11T13:20:18.530694402+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 79149c5836485ed640b93fa87dce03feedc79271092dcb258010dd8eb36aac9f
@@ -1796,7 +1796,7 @@ entries:
     version: 0.6.10
   - apiVersion: v1
     appVersion: 1.42.0
-    created: "2021-04-10T14:23:38.052273138+03:00"
+    created: "2021-04-11T13:20:18.550417603+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 053e763a1ad4c15a653e73e067151bd3fd22b28a7d03caa0f516d14ce2dadaea
@@ -1806,7 +1806,7 @@ entries:
     version: 0.6.9
   - apiVersion: v1
     appVersion: 1.41.1
-    created: "2021-04-10T14:23:38.050197892+03:00"
+    created: "2021-04-11T13:20:18.548457762+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 48a404339db0cdc446493a12197501e315e43fd2b38cb92625b2fd9c6009903a
@@ -1816,7 +1816,7 @@ entries:
     version: 0.6.8
   - apiVersion: v1
     appVersion: 1.41.0
-    created: "2021-04-10T14:23:38.049083685+03:00"
+    created: "2021-04-11T13:20:18.5465043+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: ba48ea2641dbd2809b9402db40159434c58a8d361772fcc95ce7e0ad035c0b92
@@ -1826,7 +1826,7 @@ entries:
     version: 0.6.7
   - apiVersion: v1
     appVersion: 1.41.0
-    created: "2021-04-10T14:23:38.048002074+03:00"
+    created: "2021-04-11T13:20:18.544371121+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 1ed7093d4564274951a7d39c9e5709f268b4864cc428fcc8798a6bbdd527ef9f
@@ -1836,7 +1836,7 @@ entries:
     version: 0.6.6
   - apiVersion: v1
     appVersion: 1.40.1
-    created: "2021-04-10T14:23:38.046903748+03:00"
+    created: "2021-04-11T13:20:18.542351091+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: e4620b779c06b15ffa0e229d318b6e89def311963b7943fd068cec3df15d8ad6
@@ -1846,7 +1846,7 @@ entries:
     version: 0.6.5
   - apiVersion: v1
     appVersion: 1.40.0
-    created: "2021-04-10T14:23:38.045807513+03:00"
+    created: "2021-04-11T13:20:18.540283111+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: c90a2ff6980af2249bed04678f8c66483a6cf1e8b70dfbd3a344dbc5d42f526d
@@ -1856,7 +1856,7 @@ entries:
     version: 0.6.4
   - apiVersion: v1
     appVersion: 1.40.0
-    created: "2021-04-10T14:23:38.044667029+03:00"
+    created: "2021-04-11T13:20:18.538241102+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 2912acd68baef675b26571d8786495621e46e53b4829080efb1678140ad9e549
@@ -1866,7 +1866,7 @@ entries:
     version: 0.6.3
   - apiVersion: v1
     appVersion: 1.40.0
-    created: "2021-04-10T14:23:38.042955799+03:00"
+    created: "2021-04-11T13:20:18.535998121+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 61d43567ac6ff87916d0c792f8717251ade910848a2c66c8bf7804adcedf9f0a
@@ -1876,7 +1876,7 @@ entries:
     version: 0.6.2
   - apiVersion: v1
     appVersion: 1.39.4
-    created: "2021-04-10T14:23:38.037431225+03:00"
+    created: "2021-04-11T13:20:18.528334828+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: e8b1f973613b7dea3b6c2bd79b9f6c7ffb8dd6dc8e573b0aa0470964dbaa1a27
@@ -1886,7 +1886,7 @@ entries:
     version: 0.6.1
   - apiVersion: v1
     appVersion: 1.39.3
-    created: "2021-04-10T14:23:38.036214481+03:00"
+    created: "2021-04-11T13:20:18.526255583+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 546fdd43b857b92d89ff544f339d353ebf1b5116b9dc2dfd9ac9fad572e4717c
@@ -1896,7 +1896,7 @@ entries:
     version: 0.6.0
   - apiVersion: v1
     appVersion: 1.39.3
-    created: "2021-04-10T14:23:38.026904733+03:00"
+    created: "2021-04-11T13:20:18.512957835+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 40ca68c6de7d10185f3dd3b6e30b84129ea2352edc8178359c1b876159c2db28
@@ -1906,7 +1906,7 @@ entries:
     version: 0.5.23
   - apiVersion: v1
     appVersion: 1.39.2
-    created: "2021-04-10T14:23:38.024659373+03:00"
+    created: "2021-04-11T13:20:18.511630499+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 354a745b9357f35d83ca4a809fd76d23b5ee5f3c86c754b267f45463695c6098
@@ -1916,7 +1916,7 @@ entries:
     version: 0.5.22
   - apiVersion: v1
     appVersion: 1.39.1
-    created: "2021-04-10T14:23:38.023394467+03:00"
+    created: "2021-04-11T13:20:18.50965185+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 2a17729b245637e9109515870dc4fd2ed8504e9d408a723cae180bcc3a6bf41e
@@ -1926,7 +1926,7 @@ entries:
     version: 0.5.21
   - apiVersion: v1
     appVersion: 1.39.0
-    created: "2021-04-10T14:23:38.021957909+03:00"
+    created: "2021-04-11T13:20:18.508223255+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 773a51ccfe6769cbaa0fab6ee686fa2d988a5eade77293a24b35786bc8b994ac
@@ -1936,7 +1936,7 @@ entries:
     version: 0.5.20
   - apiVersion: v1
     appVersion: 1.38.1
-    created: "2021-04-10T14:23:38.017892694+03:00"
+    created: "2021-04-11T13:20:18.505454188+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: bcfbfba0925aa213d17a60c30d14ff7a08c1828f83fa9e1f31ef4d3926b30b27
@@ -1946,7 +1946,7 @@ entries:
     version: 0.5.19
   - apiVersion: v1
     appVersion: 1.38.1
-    created: "2021-04-10T14:23:38.016215399+03:00"
+    created: "2021-04-11T13:20:18.503906935+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 12f930c3274563e3037775fd55d1ece549175fd1b1e461c30fbe1a3d07613523
@@ -1956,7 +1956,7 @@ entries:
     version: 0.5.18
   - apiVersion: v1
     appVersion: 1.38.0
-    created: "2021-04-10T14:23:38.015112443+03:00"
+    created: "2021-04-11T13:20:18.502425105+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 230195d6ef955630e78fbb968e3f4ecea1c648b61d645bfaecfc0ba058053808
@@ -1966,7 +1966,7 @@ entries:
     version: 0.5.17
   - apiVersion: v1
     appVersion: 1.37.4
-    created: "2021-04-10T14:23:38.013349492+03:00"
+    created: "2021-04-11T13:20:18.500989465+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 6c0bb4843d375e90c071636ab695673f3299c5735383a599c94b1cf467793597
@@ -1976,7 +1976,7 @@ entries:
     version: 0.5.16
   - apiVersion: v1
     appVersion: 1.37.4
-    created: "2021-04-10T14:23:38.012353232+03:00"
+    created: "2021-04-11T13:20:18.499545428+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 27b9bccdb6506f317cb542084375a101b97a77c877b10a594cfc1be2cbec4591
@@ -1986,7 +1986,7 @@ entries:
     version: 0.5.15
   - apiVersion: v1
     appVersion: 1.37.3
-    created: "2021-04-10T14:23:38.011344757+03:00"
+    created: "2021-04-11T13:20:18.49717623+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: f7c9053795c687a531e4a05f879e99161f8ab1855e84f9706a5b186e32238b4e
@@ -1996,7 +1996,7 @@ entries:
     version: 0.5.14
   - apiVersion: v1
     appVersion: 1.37.2
-    created: "2021-04-10T14:23:38.010339791+03:00"
+    created: "2021-04-11T13:20:18.495470049+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 3ff34be56ff06263e2c56ab30e0b13c8f3cfc7e61c31c9c97628f32bf9e429cd
@@ -2006,7 +2006,7 @@ entries:
     version: 0.5.13
   - apiVersion: v1
     appVersion: 1.37.1
-    created: "2021-04-10T14:23:38.009323993+03:00"
+    created: "2021-04-11T13:20:18.494058249+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: ab23a4a43f5d633bba25f41e54afbbecdc1308e8726d7501848aa9baebeda474
@@ -2016,7 +2016,7 @@ entries:
     version: 0.5.12
   - apiVersion: v1
     appVersion: 1.37.0
-    created: "2021-04-10T14:23:38.007944171+03:00"
+    created: "2021-04-11T13:20:18.492133629+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: dee02239d3eb8cf75e9d7aa2db82e17deb16205bb29185f0e71f0dc2605ecf9b
@@ -2026,7 +2026,7 @@ entries:
     version: 0.5.11
   - apiVersion: v1
     appVersion: 1.36.3
-    created: "2021-04-10T14:23:38.006852733+03:00"
+    created: "2021-04-11T13:20:18.490053943+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 7c87a51f76d7fe7f477430ef194dbb0a43efa0bcbd395f56863b847ed270416f
@@ -2036,7 +2036,7 @@ entries:
     version: 0.5.10
   - apiVersion: v1
     appVersion: 1.36.2
-    created: "2021-04-10T14:23:38.03512653+03:00"
+    created: "2021-04-11T13:20:18.524178519+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 757022087941d5baa0025766b178feebb5243d340f01c06b6407e42c324c62fb
@@ -2046,7 +2046,7 @@ entries:
     version: 0.5.9
   - apiVersion: v1
     appVersion: 1.36.1
-    created: "2021-04-10T14:23:38.033488068+03:00"
+    created: "2021-04-11T13:20:18.5222335+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: c203995a6bebad6eea7d9c6769ffeaf564efab6dd31785640408998eb2be9b9c
@@ -2056,7 +2056,7 @@ entries:
     version: 0.5.8
   - apiVersion: v1
     appVersion: 1.36.0
-    created: "2021-04-10T14:23:38.032509761+03:00"
+    created: "2021-04-11T13:20:18.520046264+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: a902df65f7ac36808ea9a08eacee1ccedb8cef2d10e7d1ffc946e0541b6aa7bf
@@ -2066,7 +2066,7 @@ entries:
     version: 0.5.7
   - apiVersion: v1
     appVersion: 1.35.6
-    created: "2021-04-10T14:23:38.031528536+03:00"
+    created: "2021-04-11T13:20:18.518001895+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: e6304b110ae132da19a6d7cc85c564519cedc4c0e93db04d6c6740615c138a2b
@@ -2076,7 +2076,7 @@ entries:
     version: 0.5.6
   - apiVersion: v1
     appVersion: 1.35.6
-    created: "2021-04-10T14:23:38.030428797+03:00"
+    created: "2021-04-11T13:20:18.516786943+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 701c234e9f79ecfa26a931ba5d23989ce876b0eadde86dd81d2e885713a0a613
@@ -2086,7 +2086,7 @@ entries:
     version: 0.5.5
   - apiVersion: v1
     appVersion: 1.35.6
-    created: "2021-04-10T14:23:38.029315611+03:00"
+    created: "2021-04-11T13:20:18.51554574+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 8f20e69421f2be0c7ec5466a66cc634f6f965c9e01ee79c30be3fc82ba842922
@@ -2096,7 +2096,7 @@ entries:
     version: 0.5.4
   - apiVersion: v1
     appVersion: 1.35.5
-    created: "2021-04-10T14:23:38.028171189+03:00"
+    created: "2021-04-11T13:20:18.514282343+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 845e97e6931c3b5c4152df561cf9428217c25d02967fd3523f5ebf335f38e374
@@ -2106,7 +2106,7 @@ entries:
     version: 0.5.3
   - apiVersion: v1
     appVersion: 1.35.4
-    created: "2021-04-10T14:23:38.019834531+03:00"
+    created: "2021-04-11T13:20:18.506700706+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: d7f09dce781d520d652dc3790cdabee21f6fcf636761d20e884866ae176ecbcc
@@ -2116,7 +2116,7 @@ entries:
     version: 0.5.2
   - apiVersion: v1
     appVersion: 1.35.4
-    created: "2021-04-10T14:23:38.005240223+03:00"
+    created: "2021-04-11T13:20:18.488168133+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 9fb3316a431101b7cce77db75df8a33784c40f3cf678c9ece592106ad50b462f
@@ -2126,7 +2126,7 @@ entries:
     version: 0.5.1
   - apiVersion: v1
     appVersion: 1.35.3
-    created: "2021-04-10T14:23:38.004185165+03:00"
+    created: "2021-04-11T13:20:18.486221383+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 73b3445f17b4ba104de2cfdb16c95de80856b39d2aabd1c0e28bba03563cc14e
@@ -2136,7 +2136,7 @@ entries:
     version: 0.5.0
   - apiVersion: v1
     appVersion: 1.35.3
-    created: "2021-04-10T14:23:37.99539734+03:00"
+    created: "2021-04-11T13:20:18.468256622+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 9cd3ca6e86e935aa776fa3dfbd87b4a3ea1a04638314369a4d50fdb63ee49329
@@ -2146,7 +2146,7 @@ entries:
     version: 0.4.11
   - apiVersion: v1
     appVersion: 1.35.1
-    created: "2021-04-10T14:23:37.994333561+03:00"
+    created: "2021-04-11T13:20:18.465990697+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 7e10da9c5ee63cdaa6816b1c077c5c1fdafb0909a6964bb2bcf8c60ba406fd8a
@@ -2156,7 +2156,7 @@ entries:
     version: 0.4.10
   - apiVersion: v1
     appVersion: 1.35.0
-    created: "2021-04-10T14:23:38.00313079+03:00"
+    created: "2021-04-11T13:20:18.484227256+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 86fb1adb5a70b3431f66eb84094d06de9507fa3afaf657499e2df69271040b1e
@@ -2166,7 +2166,7 @@ entries:
     version: 0.4.9
   - apiVersion: v1
     appVersion: 1.34.9
-    created: "2021-04-10T14:23:38.002046416+03:00"
+    created: "2021-04-11T13:20:18.482257055+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 20ed6c7080d95a113dcef26b4ec56f3e9c22d5f06f2e4a1a6dfd0eacb95ec7d5
@@ -2176,7 +2176,7 @@ entries:
     version: 0.4.8
   - apiVersion: v1
     appVersion: 1.34.9
-    created: "2021-04-10T14:23:38.000921553+03:00"
+    created: "2021-04-11T13:20:18.480408447+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 8048058606558441221346eff259e87fd7c156db63974b0398a3e19943f6c420
@@ -2186,7 +2186,7 @@ entries:
     version: 0.4.7
   - apiVersion: v1
     appVersion: 1.34.8
-    created: "2021-04-10T14:23:37.999940404+03:00"
+    created: "2021-04-11T13:20:18.4781877+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: fd5427e0591cf7ef2d3a787e2ed5f2c750361a044d249f49e713c5a3a62d79aa
@@ -2196,7 +2196,7 @@ entries:
     version: 0.4.6
   - apiVersion: v1
     appVersion: 1.34.7
-    created: "2021-04-10T14:23:37.998903668+03:00"
+    created: "2021-04-11T13:20:18.475721526+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 8562a9664e5258b2c665767200ea5fc4d1f052b922528e7258d0e1f1aa098ed4
@@ -2206,7 +2206,7 @@ entries:
     version: 0.4.5
   - apiVersion: v1
     appVersion: 1.34.7
-    created: "2021-04-10T14:23:37.997344209+03:00"
+    created: "2021-04-11T13:20:18.472627497+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 1dfbd7e18f986519de3ef317f06a73c2d6ca392db1f74ca7ae9e06124799054f
@@ -2216,7 +2216,7 @@ entries:
     version: 0.4.4
   - apiVersion: v1
     appVersion: 1.34.6
-    created: "2021-04-10T14:23:37.996375223+03:00"
+    created: "2021-04-11T13:20:18.470681078+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 8ad47ed82e6955a4ce0f7a7b498735f6d57687b35c2e6de3051390ad3290a702
@@ -2226,7 +2226,7 @@ entries:
     version: 0.4.2
   - apiVersion: v1
     appVersion: 1.34.3
-    created: "2021-04-10T14:23:37.993248521+03:00"
+    created: "2021-04-11T13:20:18.463996108+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 10daf166452a1d77102ea5f79025dfa0bb877bf66e9ede01f211e8f1b8ec135a
@@ -2236,7 +2236,7 @@ entries:
     version: 0.4.1
   - apiVersion: v1
     appVersion: 1.31.2
-    created: "2021-04-10T14:23:37.991649929+03:00"
+    created: "2021-04-11T13:20:18.462112725+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: e4634e294781a99fffd9af1b1b7aee0c35a389a40d89412686fbc07d39986f37
@@ -2246,7 +2246,7 @@ entries:
     version: 0.4.0
   - apiVersion: v1
     appVersion: 1.30.5
-    created: "2021-04-10T14:23:37.990334564+03:00"
+    created: "2021-04-11T13:20:18.460614182+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 77e34f0105d73da0ae64fc71e8e1a76177d64ef092a58a4b828acd176b90cd1b
@@ -2256,7 +2256,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 1.29.5
-    created: "2021-04-10T14:23:37.989310258+03:00"
+    created: "2021-04-11T13:20:18.458571044+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 5d5ac9126818d1cb804497d35221658aa3ebef15c622f7e67aa9044166151742
@@ -2266,7 +2266,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: 1.28.0
-    created: "2021-04-10T14:23:37.987684777+03:00"
+    created: "2021-04-11T13:20:18.457090539+03:00"
     description: Victoria Metrics Cluster version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 9efd0080ef1b40213dc9b1b4095ff92186392afc26763cc69b9992814bcafecc
@@ -2277,7 +2277,19 @@ entries:
   victoria-metrics-operator:
   - apiVersion: v1
     appVersion: 0.13.0
-    created: "2021-04-10T14:23:38.117141955+03:00"
+    created: "2021-04-11T13:20:18.641872146+03:00"
+    description: Victoria Metrics Operator
+    digest: 8017fa9bf84060781993eda32a0284c6064a8193baacaa24cb529a07cd7445be
+    home: https://github.com/VictoriaMetrics/operator
+    name: victoria-metrics-operator
+    sources:
+    - https://github.com/VictoriaMetrics/operator
+    urls:
+    - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-operator-0.1.12.tgz
+    version: 0.1.12
+  - apiVersion: v1
+    appVersion: 0.13.0
+    created: "2021-04-11T13:20:18.63348009+03:00"
     description: Victoria Metrics Operator
     digest: 63b3c7c9770cdbd1449099c54fd87222449b4c3b8c88f7e03cee818910e31ef4
     home: https://github.com/VictoriaMetrics/operator
@@ -2289,7 +2301,7 @@ entries:
     version: 0.1.11
   - apiVersion: v1
     appVersion: 0.12.2
-    created: "2021-04-10T14:23:38.112042636+03:00"
+    created: "2021-04-11T13:20:18.627197258+03:00"
     description: Victoria Metrics Operator
     digest: 44930538795fef412dfcde25dc035016d012c734b004d3537cf53c803171fd6c
     home: https://github.com/VictoriaMetrics/operator
@@ -2301,7 +2313,7 @@ entries:
     version: 0.1.10
   - apiVersion: v1
     appVersion: 0.11.0
-    created: "2021-04-10T14:23:38.146832841+03:00"
+    created: "2021-04-11T13:20:18.683149703+03:00"
     description: Victoria Metrics Operator
     digest: 1b735a25e233a983aa9b4b17760c0b67b13539bca450f31fd8f1589c0dcddd5e
     home: https://github.com/VictoriaMetrics/operator
@@ -2313,7 +2325,7 @@ entries:
     version: 0.1.9
   - apiVersion: v1
     appVersion: 0.9.1
-    created: "2021-04-10T14:23:38.143017723+03:00"
+    created: "2021-04-11T13:20:18.678487424+03:00"
     description: Victoria Metrics Operator
     digest: 126a6883c931ce03ab5d1d4804a177eb5045f41096fd1c360326c2489247408c
     home: https://github.com/VictoriaMetrics/operator
@@ -2325,7 +2337,7 @@ entries:
     version: 0.1.8
   - apiVersion: v1
     appVersion: 0.8.0
-    created: "2021-04-10T14:23:38.138725233+03:00"
+    created: "2021-04-11T13:20:18.674436111+03:00"
     description: Victoria Metrics Operator
     digest: e05dfcc667dde7ef77452e50eda4033c3d5e39ad9baecc13c729b2ea96272bcc
     home: https://github.com/VictoriaMetrics/operator
@@ -2337,7 +2349,7 @@ entries:
     version: 0.1.7
   - apiVersion: v1
     appVersion: 0.8.0
-    created: "2021-04-10T14:23:38.13496884+03:00"
+    created: "2021-04-11T13:20:18.66848694+03:00"
     description: Victoria Metrics Operator
     digest: 7b0c1ef5e744f02ed56c5c1068fc71dc4e411d306b0b7241ed6e3aa81da2bee3
     home: https://github.com/VictoriaMetrics/operator
@@ -2349,7 +2361,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: 0.7.3
-    created: "2021-04-10T14:23:38.131506002+03:00"
+    created: "2021-04-11T13:20:18.662944412+03:00"
     description: Victoria Metrics Operator
     digest: 216bb5af0b300f86cabaff041077441f221b6b60c06cc4a7a2ca370a7518b3b7
     home: https://github.com/VictoriaMetrics/operator
@@ -2361,7 +2373,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 0.6.1
-    created: "2021-04-10T14:23:38.12789266+03:00"
+    created: "2021-04-11T13:20:18.657327023+03:00"
     description: Victoria Metrics Operator
     digest: 3ed0c0a73f6aa75060c164c90775aafdcebd176e5759bae23a1d9334c3a7eed2
     home: https://github.com/VictoriaMetrics/operator
@@ -2373,7 +2385,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 0.6.1
-    created: "2021-04-10T14:23:38.123877092+03:00"
+    created: "2021-04-11T13:20:18.65208911+03:00"
     description: Victoria Metrics Operator
     digest: 915f7d6639ec85d949a76aa5827ceb1c44ea1071494cd7845152dbea44c6e75f
     home: https://github.com/VictoriaMetrics/operator
@@ -2385,7 +2397,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 0.6.1
-    created: "2021-04-10T14:23:38.120931553+03:00"
+    created: "2021-04-11T13:20:18.646842599+03:00"
     description: Victoria Metrics Operator
     digest: 9c2233a85661f7801da5925b176a7d067b037dca2e5020846bb06fcf5704c7c5
     home: https://github.com/VictoriaMetrics/operator
@@ -2397,7 +2409,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 0.2.1
-    created: "2021-04-10T14:23:38.106748893+03:00"
+    created: "2021-04-11T13:20:18.619669525+03:00"
     description: Victoria Metrics Operator
     digest: 3d04e6fd838dee6f79fe21fd160e2322c01852c3e141fe3ed00e8fd3733dbab4
     home: https://github.com/VictoriaMetrics/operator
@@ -2409,7 +2421,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 0.2.1
-    created: "2021-04-10T14:23:38.100812229+03:00"
+    created: "2021-04-11T13:20:18.612913813+03:00"
     description: Victoria Metrics Operator
     digest: 7a8c67ee1846e3e3d572675a2a0dc02869ca25ae5bcceab08d09ad9d490526f9
     home: https://github.com/VictoriaMetrics/operator
@@ -2422,17 +2434,17 @@ entries:
   victoria-metrics-single:
   - apiVersion: v1
     appVersion: 1.58.0
-    created: "2021-04-10T14:23:38.201621178+03:00"
+    created: "2021-04-11T13:20:18.753751163+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
-    digest: 657eac20bd8a0f232457aecd1cf6ef657296bb304e0de55a3fc7f28aa6320622
+    digest: 59c8c93f435a179af596e58a0925ca85fb32bd5ee531119664beb18e0caa9421
     name: victoria-metrics-single
     urls:
     - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-single-0.6.22.tgz
     version: 0.6.22
   - apiVersion: v1
     appVersion: 1.57.1
-    created: "2021-04-10T14:23:38.200750362+03:00"
+    created: "2021-04-11T13:20:18.752186999+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 7773d1c195618cff04b5345bb1d2abbd53dae8b387ffe21edaf0dc69cab5d695
@@ -2442,7 +2454,7 @@ entries:
     version: 0.6.21
   - apiVersion: v1
     appVersion: 1.57.0
-    created: "2021-04-10T14:23:38.199875966+03:00"
+    created: "2021-04-11T13:20:18.750734275+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 3914458a4c02c27410750bbbf887be444c5426c77b3c095b7cf7bb261d105ac4
@@ -2452,7 +2464,7 @@ entries:
     version: 0.6.20
   - apiVersion: v1
     appVersion: 1.56.0
-    created: "2021-04-10T14:23:38.198295099+03:00"
+    created: "2021-04-11T13:20:18.748033677+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: d90014e4cbc967fadcdf0d42095e95bb6e574551d32f8ad23f6ba97eb40c23f2
@@ -2462,7 +2474,7 @@ entries:
     version: 0.6.19
   - apiVersion: v1
     appVersion: 1.55.1
-    created: "2021-04-10T14:23:38.197457401+03:00"
+    created: "2021-04-11T13:20:18.746589104+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 4b419a3f9318450f70ecf0636f692da004a612144a659b19d1084a3459452bbb
@@ -2472,7 +2484,7 @@ entries:
     version: 0.6.18
   - apiVersion: v1
     appVersion: 1.55.0
-    created: "2021-04-10T14:23:38.196583769+03:00"
+    created: "2021-04-11T13:20:18.745148287+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: fab5a5d4279f27a1b7918404d4a784f67a47f8c957b2ec253ed36a1856189d64
@@ -2482,7 +2494,7 @@ entries:
     version: 0.6.17
   - apiVersion: v1
     appVersion: 1.54.1
-    created: "2021-04-10T14:23:38.195710275+03:00"
+    created: "2021-04-11T13:20:18.743552734+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: dd5f96a23d7ecc6edb3bd530ddbfeb8ffafaf41430ff4a0c9e72ecfa7922e8a0
@@ -2492,7 +2504,7 @@ entries:
     version: 0.6.16
   - apiVersion: v1
     appVersion: 1.54.1
-    created: "2021-04-10T14:23:38.194496116+03:00"
+    created: "2021-04-11T13:20:18.741759298+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 47bedfa5faf89028d238e24025d5a0626fea83614d5a2d89a79bac16e478bedd
@@ -2502,7 +2514,7 @@ entries:
     version: 0.6.15
   - apiVersion: v1
     appVersion: 1.54.0
-    created: "2021-04-10T14:23:38.193359223+03:00"
+    created: "2021-04-11T13:20:18.740020655+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 9ab034e5045fb71c9dd4c4e65b2f15e36f7cee4c5b732170fa9036f2926ef792
@@ -2512,7 +2524,7 @@ entries:
     version: 0.6.14
   - apiVersion: v1
     appVersion: 1.53.1
-    created: "2021-04-10T14:23:38.191544225+03:00"
+    created: "2021-04-11T13:20:18.737777463+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 98f3544995d37d1bf47300e679bdbc242464e5857c9050e6c456e539b7ae4982
@@ -2522,7 +2534,7 @@ entries:
     version: 0.6.13
   - apiVersion: v1
     appVersion: 1.53.0
-    created: "2021-04-10T14:23:38.190424993+03:00"
+    created: "2021-04-11T13:20:18.73606373+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: e9cc8a7822f290ae885c5704a1b38f941ce1d84aaf2fd844369c82eab86f35c3
@@ -2532,7 +2544,7 @@ entries:
     version: 0.6.12
   - apiVersion: v1
     appVersion: 1.52.0
-    created: "2021-04-10T14:23:38.189579699+03:00"
+    created: "2021-04-11T13:20:18.734508324+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 5417b2c8a8ac7d8f3f73fc68b16d1dc84f565c990ac1c653220446875ef46c1c
@@ -2542,7 +2554,7 @@ entries:
     version: 0.6.11
   - apiVersion: v1
     appVersion: 1.51.0
-    created: "2021-04-10T14:23:38.188733904+03:00"
+    created: "2021-04-11T13:20:18.733166585+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: e269bb8bb4b0a8444b4b8aa3b7a435a9772f3e6829634e2929683106197e02f5
@@ -2552,7 +2564,7 @@ entries:
     version: 0.6.10
   - apiVersion: v1
     appVersion: 1.50.2
-    created: "2021-04-10T14:23:38.207619658+03:00"
+    created: "2021-04-11T13:20:18.761749896+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: c1f472f8c253d2884568529567d74981bd0cfd8895740088e9073977a6e63a19
@@ -2562,7 +2574,7 @@ entries:
     version: 0.6.9
   - apiVersion: v1
     appVersion: 1.50.1
-    created: "2021-04-10T14:23:38.206702628+03:00"
+    created: "2021-04-11T13:20:18.760854005+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 3988639690421b671818daec7eecfbbe66fbe8e916f9a686085cbf78c9d5d317
@@ -2572,7 +2584,7 @@ entries:
     version: 0.6.7
   - apiVersion: v1
     appVersion: 1.49.0
-    created: "2021-04-10T14:23:38.205136456+03:00"
+    created: "2021-04-11T13:20:18.759799392+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: d4509e22ad5c2a4382fc9cc46931d6199b10583c06101f8b93ed9f1a72604bdb
@@ -2582,7 +2594,7 @@ entries:
     version: 0.6.6
   - apiVersion: v1
     appVersion: 1.48.0
-    created: "2021-04-10T14:23:38.204341418+03:00"
+    created: "2021-04-11T13:20:18.75868661+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 82124d6afa58c1f4e85c511915047be94b2a41b44e3215f51ac5d493896622ab
@@ -2592,7 +2604,7 @@ entries:
     version: 0.6.5
   - apiVersion: v1
     appVersion: 1.47.0
-    created: "2021-04-10T14:23:38.203484636+03:00"
+    created: "2021-04-11T13:20:18.757603464+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: eff743059d9f4207656e0a2e02e252ed3a6789577412b0bc3efa84058394191d
@@ -2602,7 +2614,7 @@ entries:
     version: 0.6.4
   - apiVersion: v1
     appVersion: 1.46.0
-    created: "2021-04-10T14:23:38.202487904+03:00"
+    created: "2021-04-11T13:20:18.756414317+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 85bfe22581a836608c32b62a0fe1f6235962c639411aaf536eaeac41780ae9d0
@@ -2612,7 +2624,7 @@ entries:
     version: 0.6.3
   - apiVersion: v1
     appVersion: 1.46.0
-    created: "2021-04-10T14:23:38.199023461+03:00"
+    created: "2021-04-11T13:20:18.749302921+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 1525abfba6bcd595c8abf5e0001b4e9f0ea0ca44ee3a9d64dda284b2eff7f917
@@ -2622,7 +2634,7 @@ entries:
     version: 0.6.2
   - apiVersion: v1
     appVersion: 1.45.0
-    created: "2021-04-10T14:23:38.187867826+03:00"
+    created: "2021-04-11T13:20:18.732229534+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: fd71f708d48ff503d67e6cd73c2b78a2fcbf3aa4910b3259e1a677065486d830
@@ -2632,7 +2644,7 @@ entries:
     version: 0.6.1
   - apiVersion: v1
     appVersion: 1.44.0
-    created: "2021-04-10T14:23:38.187051241+03:00"
+    created: "2021-04-11T13:20:18.731394721+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: f98daf8329955bff96db4b8003cdc39d8d8ef2f2cffe678f1d26424770d897cf
@@ -2642,7 +2654,7 @@ entries:
     version: 0.6.0
   - apiVersion: v1
     appVersion: 1.44.0
-    created: "2021-04-10T14:23:38.180266502+03:00"
+    created: "2021-04-11T13:20:18.72275908+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 09cc7a6e9713cd028f307e76c2595031c1e6561944ddf79e891e624cd9432c95
@@ -2652,7 +2664,7 @@ entries:
     version: 0.5.28
   - apiVersion: v1
     appVersion: 1.43.0
-    created: "2021-04-10T14:23:38.17950819+03:00"
+    created: "2021-04-11T13:20:18.72152492+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 4a9724f74d65f654b49eace6cb285928f0ad6d8c9a086a5ec29ed243939c1e8e
@@ -2662,7 +2674,7 @@ entries:
     version: 0.5.27
   - apiVersion: v1
     appVersion: 1.43.0
-    created: "2021-04-10T14:23:38.178710094+03:00"
+    created: "2021-04-11T13:20:18.720223694+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 93ba4148d89130701a2ba79948fd59408d8a6e1cc0f3dde8850b153b50b495f1
@@ -2672,7 +2684,7 @@ entries:
     version: 0.5.26
   - apiVersion: v1
     appVersion: 1.42.0
-    created: "2021-04-10T14:23:38.17779768+03:00"
+    created: "2021-04-11T13:20:18.718770372+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 798808b46df7a19f6ddb8801cd13b88d817674b5632fc0a6eb81d6b19f4e4606
@@ -2682,7 +2694,7 @@ entries:
     version: 0.5.25
   - apiVersion: v1
     appVersion: 1.41.1
-    created: "2021-04-10T14:23:38.176701759+03:00"
+    created: "2021-04-11T13:20:18.717488664+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 16a3bc09a46d354830b20eb2a86d49d651a01f2f3abd6558def24b534caade0d
@@ -2692,7 +2704,7 @@ entries:
     version: 0.5.24
   - apiVersion: v1
     appVersion: 1.41.0
-    created: "2021-04-10T14:23:38.175764143+03:00"
+    created: "2021-04-11T13:20:18.71603716+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 3f74c659678210364da20c4a6269b5f3f1abc1e9b344fa5750b6edc1b562b3b8
@@ -2702,7 +2714,7 @@ entries:
     version: 0.5.23
   - apiVersion: v1
     appVersion: 1.41.0
-    created: "2021-04-10T14:23:38.174364043+03:00"
+    created: "2021-04-11T13:20:18.714733104+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: c31dc468d5dd5f80d5cc806825310769025963886e6a3a79f2ea75df26d058f1
@@ -2712,7 +2724,7 @@ entries:
     version: 0.5.22
   - apiVersion: v1
     appVersion: 1.40.1
-    created: "2021-04-10T14:23:38.173403208+03:00"
+    created: "2021-04-11T13:20:18.713510194+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: dd996fceeb7de40c6c51050761e8bcbc6aeecd559dfb1908d61b05489af7c822
@@ -2722,7 +2734,7 @@ entries:
     version: 0.5.21
   - apiVersion: v1
     appVersion: 1.40.0
-    created: "2021-04-10T14:23:38.171969619+03:00"
+    created: "2021-04-11T13:20:18.712219617+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 0aa4cc4c4f361b372aed24f9c4b8c6cdd58d7fca7878cb9994d96c67dfdc576b
@@ -2732,7 +2744,7 @@ entries:
     version: 0.5.20
   - apiVersion: v1
     appVersion: 1.39.4
-    created: "2021-04-10T14:23:38.170408012+03:00"
+    created: "2021-04-11T13:20:18.708659181+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: ae3ee0cbfebda511f90e623dcb7b19637cafcd3fa8413ea657c9ba5b3896595b
@@ -2742,7 +2754,7 @@ entries:
     version: 0.5.19
   - apiVersion: v1
     appVersion: 1.39.3
-    created: "2021-04-10T14:23:38.169564742+03:00"
+    created: "2021-04-11T13:20:18.70695051+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 24ed1a542241b92e2a9ebb2803bee2551e3d1cf8117f5a58d458c3859957966e
@@ -2752,7 +2764,7 @@ entries:
     version: 0.5.18
   - apiVersion: v1
     appVersion: 1.39.2
-    created: "2021-04-10T14:23:38.168757563+03:00"
+    created: "2021-04-11T13:20:18.705743577+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 9a24570b2e84ad33f16142e9b0ed200ba73bb38f53fbe858082b96048fc2b140
@@ -2762,7 +2774,7 @@ entries:
     version: 0.5.17
   - apiVersion: v1
     appVersion: 1.39.1
-    created: "2021-04-10T14:23:38.167962726+03:00"
+    created: "2021-04-11T13:20:18.704686696+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: fdd4d9a53c2e056cb6794ab17637647bf924fd8cbc089f91bd5877319b8bb0de
@@ -2772,7 +2784,7 @@ entries:
     version: 0.5.16
   - apiVersion: v1
     appVersion: 1.39.0
-    created: "2021-04-10T14:23:38.167152083+03:00"
+    created: "2021-04-11T13:20:18.703740694+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 703b9981f091a59b16bfddcc7986df4baf015f95a79284d2dde5fbdeeea70da1
@@ -2782,7 +2794,7 @@ entries:
     version: 0.5.15
   - apiVersion: v1
     appVersion: 1.38.1
-    created: "2021-04-10T14:23:38.166409769+03:00"
+    created: "2021-04-11T13:20:18.702731897+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 0f305776db5864d001dee324d4c2a57a35d806e51b4697e385c8f803029a68ad
@@ -2792,7 +2804,7 @@ entries:
     version: 0.5.14
   - apiVersion: v1
     appVersion: 1.38.0
-    created: "2021-04-10T14:23:38.165688368+03:00"
+    created: "2021-04-11T13:20:18.701773908+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: f9ad3f038dc7bfc87867ae16455db799d752f186b1cc0e3d9244e93e50a4ec3a
@@ -2802,7 +2814,7 @@ entries:
     version: 0.5.13
   - apiVersion: v1
     appVersion: 1.37.4
-    created: "2021-04-10T14:23:38.164968409+03:00"
+    created: "2021-04-11T13:20:18.70077846+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 4f0caa7ed98e287b967de1a59fd66c8ebaf50d7fa81478eb7dbf1ddc2cfd905d
@@ -2812,7 +2824,7 @@ entries:
     version: 0.5.12
   - apiVersion: v1
     appVersion: 1.37.3
-    created: "2021-04-10T14:23:38.164164387+03:00"
+    created: "2021-04-11T13:20:18.699923602+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 262975b528fab42c40ad03b44b29365070190bdbce7a43ed8ef6ccb96a54737a
@@ -2822,7 +2834,7 @@ entries:
     version: 0.5.11
   - apiVersion: v1
     appVersion: 1.37.2
-    created: "2021-04-10T14:23:38.16226276+03:00"
+    created: "2021-04-11T13:20:18.699143927+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 7bcdd62a06a1fb6fa734319ff547f89003fcc9572c7577c10a6b14f9db9c7f6a
@@ -2832,7 +2844,7 @@ entries:
     version: 0.5.10
   - apiVersion: v1
     appVersion: 1.37.1
-    created: "2021-04-10T14:23:38.186182726+03:00"
+    created: "2021-04-11T13:20:18.730623314+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: df002f7dbafcf38cb018d70b018ffcc332cb186c8dc26b0e89ebf7b56b3344af
@@ -2842,7 +2854,7 @@ entries:
     version: 0.5.9
   - apiVersion: v1
     appVersion: 1.37.0
-    created: "2021-04-10T14:23:38.185376046+03:00"
+    created: "2021-04-11T13:20:18.729872373+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: d05e5dd30b828c35d7b17f36ddce33c58a2bbc59df775453bf6bd1798a57cd28
@@ -2852,7 +2864,7 @@ entries:
     version: 0.5.8
   - apiVersion: v1
     appVersion: 1.36.3
-    created: "2021-04-10T14:23:38.184617988+03:00"
+    created: "2021-04-11T13:20:18.729112327+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 721611aa1dddeb08787f7b94ee7ad510b94309db75073961675aa5c3011397bd
@@ -2862,7 +2874,7 @@ entries:
     version: 0.5.7
   - apiVersion: v1
     appVersion: 1.36.2
-    created: "2021-04-10T14:23:38.183843277+03:00"
+    created: "2021-04-11T13:20:18.72835461+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 59bb6a6693ace38946b6409035b57e0f0e7cd02d75a1142f33ce8fecef771840
@@ -2872,7 +2884,7 @@ entries:
     version: 0.5.6
   - apiVersion: v1
     appVersion: 1.36.1
-    created: "2021-04-10T14:23:38.182839244+03:00"
+    created: "2021-04-11T13:20:18.727444751+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: dd44df8db3c4d74c3b90caa2d1770654ae2b75eea86b88a0333e0f834ba522cd
@@ -2882,7 +2894,7 @@ entries:
     version: 0.5.5
   - apiVersion: v1
     appVersion: 1.36.0
-    created: "2021-04-10T14:23:38.181734595+03:00"
+    created: "2021-04-11T13:20:18.725641306+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: a59566297673962731b2da490dbbbacc2e281ea904995fc7fcf39ee0cb395025
@@ -2892,7 +2904,7 @@ entries:
     version: 0.5.4
   - apiVersion: v1
     appVersion: 1.35.6
-    created: "2021-04-10T14:23:38.181016647+03:00"
+    created: "2021-04-11T13:20:18.72428682+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 560b80529d39ec0d91fe18451a1d606c4516a16d3b289e4cecf049a1812d3b38
@@ -2902,7 +2914,7 @@ entries:
     version: 0.5.3
   - apiVersion: v1
     appVersion: 1.35.5
-    created: "2021-04-10T14:23:38.171189661+03:00"
+    created: "2021-04-11T13:20:18.710623861+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: e9df78c6faede128fa42968a46c863926bb6a2381ad21597b4ae1d30fcd90050
@@ -2912,7 +2924,7 @@ entries:
     version: 0.5.2
   - apiVersion: v1
     appVersion: 1.35.4
-    created: "2021-04-10T14:23:38.160994378+03:00"
+    created: "2021-04-11T13:20:18.698317222+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: bd42122166b17b3a5b8f82b5876ac43527b3197de7d309553539c619746c0f68
@@ -2922,7 +2934,7 @@ entries:
     version: 0.5.1
   - apiVersion: v1
     appVersion: 1.35.3
-    created: "2021-04-10T14:23:38.159549226+03:00"
+    created: "2021-04-11T13:20:18.696628526+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 927ddf2aacf1a9b470148988ae8b25d605c6797f3af30bc6a48d2aeaa43e899e
@@ -2932,7 +2944,7 @@ entries:
     version: 0.5.0
   - apiVersion: v1
     appVersion: 1.35.3
-    created: "2021-04-10T14:23:38.158465787+03:00"
+    created: "2021-04-11T13:20:18.695763569+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: aa4cf9720adc82de132b151117c08eb9d573126d482055f6b83da86d7762cc50
@@ -2942,7 +2954,7 @@ entries:
     version: 0.4.3
   - apiVersion: v1
     appVersion: 1.35.1
-    created: "2021-04-10T14:23:38.157296828+03:00"
+    created: "2021-04-11T13:20:18.694913079+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: b41921695cf0d69623fe2b0776edea8a6ddc5b642108eee58f7a1fbfbe18977e
@@ -2952,7 +2964,7 @@ entries:
     version: 0.4.2
   - apiVersion: v1
     appVersion: 1.35.0
-    created: "2021-04-10T14:23:38.156463591+03:00"
+    created: "2021-04-11T13:20:18.694136997+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 14adf8624922ec13823183cf4f14638e69e6a303f828e0ba186c351126fe545b
@@ -2962,7 +2974,7 @@ entries:
     version: 0.4.1
   - apiVersion: v1
     appVersion: 1.34.9
-    created: "2021-04-10T14:23:38.15563748+03:00"
+    created: "2021-04-11T13:20:18.693308743+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 8abc02e175cd885bdb7c2603bfe67b7da12bdd7b9e1721c324bfbb059f63e2fd
@@ -2972,7 +2984,7 @@ entries:
     version: 0.4.0
   - apiVersion: v1
     appVersion: 1.34.9
-    created: "2021-04-10T14:23:38.154872976+03:00"
+    created: "2021-04-11T13:20:18.692469272+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 2406a38db69e4cb8da3f09ce4c7f103fd403a6ebd868f421fdc2f2044790b9da
@@ -2982,7 +2994,7 @@ entries:
     version: 0.3.2
   - apiVersion: v1
     appVersion: 1.34.9
-    created: "2021-04-10T14:23:38.154107704+03:00"
+    created: "2021-04-11T13:20:18.690997046+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 467bdbe8b9db07ec80c03b5aa7069ea59e63cf6d0b2737455fafe1b6cb4852d5
@@ -2992,7 +3004,7 @@ entries:
     version: 0.3.1
   - apiVersion: v1
     appVersion: 1.34.8
-    created: "2021-04-10T14:23:38.153224839+03:00"
+    created: "2021-04-11T13:20:18.689802384+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 430c1b8b99854fd2157b2df247fcf1aea22df5919c7f3ab9303eec27fe5833f1
@@ -3002,7 +3014,7 @@ entries:
     version: 0.3.0
   - apiVersion: v1
     appVersion: 1.34.8
-    created: "2021-04-10T14:23:38.152173048+03:00"
+    created: "2021-04-11T13:20:18.688967236+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 97bab7ff48cb97c269bf7a08f6b68225a48b838ac7b725837a539b7b72d3dfbe
@@ -3012,7 +3024,7 @@ entries:
     version: 0.2.1
   - apiVersion: v1
     appVersion: 1.34.7
-    created: "2021-04-10T14:23:38.150904436+03:00"
+    created: "2021-04-11T13:20:18.688139457+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: a64ef7a538b2af08361816b5747167a63698155dc3797a6d878ce67b2392c461
@@ -3022,7 +3034,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: 1.34.7
-    created: "2021-04-10T14:23:38.1501471+03:00"
+    created: "2021-04-11T13:20:18.687343303+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: a15c1b73983a31846faaeb4cab864e656c6d94ee5ac3a4e44ec275a624f27207
@@ -3032,7 +3044,7 @@ entries:
     version: 0.1.0
   - apiVersion: v1
     appVersion: 1.34.7
-    created: "2021-04-10T14:23:38.149427798+03:00"
+    created: "2021-04-11T13:20:18.686264003+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 04a247603c9a0192a590f0f1464c6b138a4fd94b5026b9a6fb4f7caf810a4681
@@ -3042,7 +3054,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 1.34.6
-    created: "2021-04-10T14:23:38.148753532+03:00"
+    created: "2021-04-11T13:20:18.685395144+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: b5aed23174af8e33d66aeedb213f2c3d2c4ffc4a94d0fb88ac62309acbe3f20a
@@ -3052,7 +3064,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 1.34.3
-    created: "2021-04-10T14:23:38.148072866+03:00"
+    created: "2021-04-11T13:20:18.6846217+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: ccaf1570aeed45664a25c7a7af76aae4d5dc1fa6539751c3ba780a1d288c6f28
@@ -3062,7 +3074,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 1.34.3
-    created: "2021-04-10T14:23:38.147432412+03:00"
+    created: "2021-04-11T13:20:18.683891912+03:00"
     description: Victoria Metrics Single version - high-performance, cost-effective
       and scalable TSDB, long-term remote storage for Prometheus
     digest: 223849a598353e7f0f3080d3dd3cb9e734b99bf6f3a2643aa8876e793d8a7161
@@ -3070,4 +3082,4 @@ entries:
     urls:
     - https://victoriametrics.github.io/helm-charts/packages/victoria-metrics-single-0.0.1.tgz
     version: 0.0.1
-generated: "2021-04-10T14:23:37.811371217+03:00"
+generated: "2021-04-11T13:20:18.256930331+03:00"
