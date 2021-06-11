@@ -39,6 +39,7 @@ init:
 
 # Update index file add new version of package into it
 merge:
+	CMD="dependency update charts/victoria-metrics-k8s-stack" $(MAKE) helm
 	CMD="repo index --url ${URL} --merge index.yaml ." $(MAKE) helm
 
 gen-docs:
