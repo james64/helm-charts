@@ -2,7 +2,6 @@
 
  ![Version: 0.3.34](https://img.shields.io/badge/Version-0.3.34-informational?style=flat-square)
 
-
 Victoria Metrics Alert - executes a list of given MetricsQL expressions (rules) and sends alerts to Alert Manager.
 
 # Prerequisites
